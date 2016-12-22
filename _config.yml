@@ -3,7 +3,7 @@ baseurl:
 #port: 341
 url: http://ef.thxopen.com
 encoding: utf-8
-exclude: ["README.md","*.iml"]
+exclude: ["README.md","*.iml","template"]
 #destination: ./_site
 #destination: C:\code\xampp\htdocs
 email: thxopen@datatables.club
