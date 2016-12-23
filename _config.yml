@@ -6,7 +6,7 @@ encoding: utf-8
 exclude: ["README.md","*.iml","template"]
 #destination: ./_site
 #destination: C:\code\xampp\htdocs
-email: thxopen@datatables.club
+email: keith@thxopen.com
 github: https://github.com/ssy341/ef.thxopen.com
 
 # page config
@@ -20,4 +20,3 @@ excerpt_separator: <!--more-->
 markdown: kramdown
 #markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 sitename: Keith's EF Life
-description: > # this means to ignore newlines until "baseurl:"
