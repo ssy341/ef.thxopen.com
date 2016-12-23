@@ -4,10 +4,16 @@ title:  Just try it even though you may fail
 date:   2016-12-23 13:59:38 +0800
 categories: article
 author: Keith Shan
+pic: images/composition/5min-speech1.jpg
 ---
+
+{% include imgfit.html src=page.pic %}
 
 I had a lot of dreams when I was a child. I wanted to be a scientist, a teacher, a doctor, or a police. 
 I really wanted to be a scientist. I thought this job was very interesting and exciting. 
+
+<!--more-->
+
 I thought scientists could create many useful things which could help us improve life quality. 
 I thought that was amazing and fantastic.
  
@@ -22,3 +28,8 @@ I thought that was amazing and fantastic.
    Certainly learning English is 
   just one of my goals. Rome was not built in one day. I believe that with my all goals 
   I can be closer to success and closer to my dream.
+
+
+
+#### Picture reference: 
+> https://www.presentationmagazine.com/newimages/5min-speech1.jpg
