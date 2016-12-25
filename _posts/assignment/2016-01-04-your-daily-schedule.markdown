@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Your daily schedule 2级 - Unit 1
-categories: composition
+categories: assignment
 author: Keith Shan
 pic: images/composition/orange.jpg
 ---

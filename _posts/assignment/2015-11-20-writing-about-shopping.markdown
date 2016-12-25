@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Shopping online 1级 - Unit 5
-categories: composition
+categories: assignment
 author: Keith Shan
 pic: images/composition/orange.jpg
 ---

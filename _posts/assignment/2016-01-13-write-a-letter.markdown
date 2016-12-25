@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Write a letter 2级 - Unit 2
-categories: composition
+categories: assignment
 author: Keith Shan
 pic: images/composition/orange.jpg
 ---

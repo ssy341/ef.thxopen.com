@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Describe the office 1级 - Unit 2
-categories: composition
+categories: assignment
 author: Keith Shan
 pic: images/composition/Serviced-Office-Space.jpg
 ---

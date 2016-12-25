@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Some sports 2级 - Unit 3
-categories: composition
+categories: assignment
 author: Keith Shan
 pic: images/composition/orange.jpg
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Describe the hometown 1级 - Unit 3
-categories: composition
+categories: assignment
 author: Keith Shan
 pic: images/composition/orange.jpg
 ---

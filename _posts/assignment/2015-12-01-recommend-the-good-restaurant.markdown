@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Recommand the good restaurant 1级 - Unit 6
-categories: composition
+categories: assignment
 author: Keith Shan
 pic: images/composition/orange.jpg
 ---

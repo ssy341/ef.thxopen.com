@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Describe my best friend 1级 - Unit 4
-categories: composition
+categories: assignment
 author: Keith Shan
 pic: images/composition/orange.jpg
 ---
