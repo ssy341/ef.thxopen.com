@@ -19,7 +19,7 @@ so he always smiles.He like help each other.And he is married.His wife is beauti
 
 ## Fix it
 
-Cheng Ming is my best friend. He lives in Changsha. He is a manager. He is very hardworking. 
+Chengming is my best friend. He lives in Changsha.（Chengming is my best friend who is living in Changsha.） He is a manager. He is very hardworking. 
 And he is friendly and kindly, so he always smiles. He **likes to** help each other. **However**, he is married. 
 His wife is beautiful and lovely.
 
