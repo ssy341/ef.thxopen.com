@@ -3,14 +3,12 @@ layout: post
 title:  Describe my best friend 1级 - Unit 4
 categories: assignment
 author: Keith Shan
-pic: images/composition/orange.jpg
+pic: images/pic03.jpg
 ---
 
 写一段文字描述你的一位同事。如果没有工作，那么描述一位同学或朋友。 输入到输入框。 字数在20 - 40之间。
 <!--more-->
 
-
-{% include imgfit.html src=page.pic %}
 
 ---
 

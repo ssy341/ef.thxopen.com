@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  White Elephant Gift exchange
-categories: assignment
+categories: lifeclub
 author: Keith Shan
 pic: images/composition/White-Elephant-Gift-Exchange-Invitation.png
 ---

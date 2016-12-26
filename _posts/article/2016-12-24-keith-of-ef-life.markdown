@@ -1,7 +1,6 @@
 ---
 layout: post
-title:  Just try it even though you may fail
-date:   2016-12-23 13:59:38 +0800
+title:  Keith's EF Life
 categories: article
 author: Keith Shan
 pic: images/pic01.jpg

@@ -1,0 +1,43 @@
+---
+layout: default
+title: Keith's EF Life
+---
+<!-- Wrapper -->
+<div id="wrapper">
+
+    <!-- Main -->
+    <div id="main">
+        <div class="inner">
+
+            <!-- Header -->
+            {% include header.html %}
+            <!-- Banner -->
+            <section>
+                <header class="main">
+                    <h1>索引（Index）</h1>
+                </header>
+
+                {% for category in site.categories %}
+                    <hr class="major" />
+                    <h2><a name="{{ category | first }}">{{ category | first | capitalize }}</a></h2>
+                    <ul>
+                        {% for posts in category %}
+                            {% for post in posts %}
+                            <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+                            {% endfor %}
+                        {% endfor %}
+                    </ul>
+                {% endfor %}
+
+
+            </section>
+
+
+
+        </div>
+    </div>
+
+    <!-- Sidebar -->
+    {% include menu.html %}
+
+</div>

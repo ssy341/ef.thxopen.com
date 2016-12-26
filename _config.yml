@@ -12,7 +12,7 @@ github: https://github.com/ssy341/ef.thxopen.com
 # page config
 gems: [jekyll-paginate]
 paginate: 10
-paginate_path: "/blog/page:num/"
+paginate_path: "/note/page:num/"
 
 excerpt_separator: <!--more-->
 

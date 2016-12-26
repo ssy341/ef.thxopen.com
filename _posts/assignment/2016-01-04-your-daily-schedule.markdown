@@ -3,13 +3,11 @@ layout: post
 title:  Your daily schedule 2级 - Unit 1
 categories: assignment
 author: Keith Shan
-pic: images/composition/orange.jpg
+pic: images/pic06.jpg
 ---
 请写下您的日常安排。您每天做些什么事情？什么时间做这些事情？ 输入到输入框。 字数在20 - 40之间。
 <!--more-->
 
-
-{% include imgfit.html src=page.pic %}
 
 ---
 

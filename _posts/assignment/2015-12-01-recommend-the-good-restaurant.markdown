@@ -3,15 +3,13 @@ layout: post
 title:  Recommand the good restaurant 1级 - Unit 6
 categories: assignment
 author: Keith Shan
-pic: images/composition/orange.jpg
+pic: images/pic05.jpg
 ---
 
 你收到朋友的邮件，询问你知不知道吃午餐的好餐厅。写信介绍你知道的一家餐厅的食物。用形容词描述食物。 输入到输入框。 字数在20 - 40之间。
 
 <!--more-->
 
-
-{% include imgfit.html src=page.pic %}
 
 ---
 

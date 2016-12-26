@@ -7,8 +7,6 @@ author: Keith Shan
 pic: images/composition/5min-speech1.jpg
 ---
 
-{% include imgfit.html src=page.pic %}
-
 I had a lot of dreams when I was a child. I wanted to be a scientist, a teacher, a doctor, or a police. 
 I really wanted to be a scientist. I thought this job was very interesting and exciting. 
 

@@ -3,14 +3,13 @@ layout: post
 title:  Write a letter 2级 - Unit 2
 categories: assignment
 author: Keith Shan
-pic: images/composition/orange.jpg
+pic: images/pic07.jpg
 ---
 
 您的美国朋友在外度假，给您写了封邮件。天气很糟糕，她很无聊。请给您的美国朋友写一封邮件，提出一些活动建议。 输入到输入框。 字数在20 - 40之间。
 <!--more-->
 
 
-{% include imgfit.html src=page.pic %}
 
 ---
 

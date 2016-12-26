@@ -3,14 +3,12 @@ layout: post
 title:  Some sports 2级 - Unit 3
 categories: assignment
 author: Keith Shan
-pic: images/composition/orange.jpg
+pic: images/pic08.jpg
 ---
 
 您的朋友给您写邮件，询问您所在国家有哪些流行的运动和活动。 输入到输入框。 字数在20 - 40之间。
 <!--more-->
 
-
-{% include imgfit.html src=page.pic %}
 
 ---
 

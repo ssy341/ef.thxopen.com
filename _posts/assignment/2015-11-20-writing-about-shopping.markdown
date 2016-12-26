@@ -3,15 +3,13 @@ layout: post
 title:  Shopping online 1级 - Unit 5
 categories: assignment
 author: Keith Shan
-pic: images/composition/orange.jpg
+pic: images/pic04.jpg
 ---
 
 你在哪里购物？商场、小店还是网上购物？写下你去购物的商店。 输入到输入框。 字数在20 - 40之间。
 
 <!--more-->
 
-
-{% include imgfit.html src=page.pic %}
 
 ---
 
