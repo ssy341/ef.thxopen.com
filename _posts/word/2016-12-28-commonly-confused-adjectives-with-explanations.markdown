@@ -14,8 +14,9 @@ confused adjectives.
 
 <!--more-->
 
-{% include imgfit.html src="images/composition/Pair-of-adjectives-infographic_big.png" %}
+{% include imgfit.html src="images/composition/Pair-of-adjectives-infographic_small.png" %}
 
+[点击查看高清图]({{site.baseurl}}/images/composition/Pair-of-adjectives-infographic_big.png)
 
 ---
 
