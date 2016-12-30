@@ -1,0 +1,9 @@
+{% if include.position %}
+<span class="image {{include.position}}">
+    <img src="{{site.baseurl}}/{{include.src}}" alt="{{include.alt}}">
+</span>
+{% else %}
+<span class="image fit">
+    <img src="{{site.baseurl}}/{{include.src}}" alt="{{include.alt}}">
+</span>
+{% endif %}

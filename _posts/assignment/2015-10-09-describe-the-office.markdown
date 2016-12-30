@@ -12,7 +12,7 @@ pic: images/composition/Serviced-Office-Space.jpg
 <!--more-->
 
 
-{% include imgfit.html src=page.pic %}
+{% include img.html src=page.pic %}
 
 ---
 

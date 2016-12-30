@@ -1,0 +1,9 @@
+- word: apple
+  img: images/pic01.jpg
+  desc: 123
+  extra: 12312
+
+- word: orange
+  img: images/pic01.jpg
+  desc: 123
+  extra: 12312

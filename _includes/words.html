@@ -1,0 +1,11 @@
+{% assign fruits = site.data.word.fruits %}
+
+
+{% for fruit in fruits %}
+
+    <div class="4u">
+    {% include img.html src=fruit.img %}
+    {{ fruit.word }}
+</div>
+
+{% endfor %}

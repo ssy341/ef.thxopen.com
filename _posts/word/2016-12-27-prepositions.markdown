@@ -11,7 +11,7 @@ pic: images/composition/Prepositions-wordle.jpg
 
 <!--more-->
 
-{% include imgfit.html src="images/composition/prepositions.jpg" %}
+{% include img.html src="images/composition/prepositions.jpg" %}
 
 
 ---

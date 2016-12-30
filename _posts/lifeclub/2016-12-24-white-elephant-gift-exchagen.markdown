@@ -6,7 +6,7 @@ author: Keith Shan
 pic: images/composition/White-Elephant-Gift-Exchange-Invitation.png
 ---
 
-{% include imgfit.html src=page.pic %}
+{% include img.html src=page.pic %}
 
 
 ## What is White Elephant Gift exchange?
