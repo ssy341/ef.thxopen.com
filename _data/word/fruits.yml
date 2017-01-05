@@ -1,243 +1,241 @@
 - word: apple
-  img: images/apple.jpg
+  img: images/fruits/apple.png
   desc: 苹果
-  extra: adam's apple 喉结 apple of my eye 掌上明珠
-  ipa:
-
-- word: orange
-  img: images/orange.jpg
-  desc: 橘子
-  ipa:
-  extra:
+  extra: adam's apple 喉结  apple of my eye 掌上明珠
+  ipa: "'æp(ə)l"
 
 - word: pitaya
-  img: images/pitaya.jpg
+  img: images/fruits/pitaya.png
   desc: 火龙果
-  ipa:
+  ipa: "'pɪtəjə"
   extra:
 
 - word: papaya
-  img: images/papaya.jpg
+  img: images/fruits/papaya.png
   desc: 木瓜
-  ipa:
+  ipa: "pə'paɪə"
   extra:
 
 - word: pear
-  img: images/pear.jpg
+  img: images/fruits/pear.png
   desc: 梨
-  ipa:
+  ipa: "peə"
   extra:
 
 - word: grape
-  img: images/grape.jpg
+  img: images/fruits/grape.png
   desc: 葡萄
-  ipa:
+  ipa: "greɪp"
   extra:
 
 - word: banana
-  img: images/banana.jpg
+  img: images/fruits/banana.png
   desc: 香蕉
-  ipa:
+  ipa: "bə'nɑːnə"
   extra:
 
 - word: strawberry
-  img: images/strawberry.jpg
+  img: images/fruits/strawberry.png
   desc: 草莓
-  ipa:
+  ipa: "'strɔːb(ə)rɪ"
   extra:
 
 - word: blueberry
-  img: images/blueberry.jpg
+  img: images/fruits/blueberry.png
   desc: 蓝莓
-  ipa:
+  ipa: "'bluːb(ə)rɪ"
   extra:
 
 - word: blackberry
-  img: images/blackberry.jpg
+  img: images/fruits/blackberry.png
   desc: 黑莓
-  ipa:
+  ipa: "'blækb(ə)rɪ"
   extra:
 
 - word: raspberry
-  img: images/raspberry.jpg
+  img: images/fruits/raspberry.png
   desc: 树莓
-  ipa:
+  ipa: "'rɑːzb(ə)rɪ"
   extra:
 
 - word: redberry
-  img: images/redberry.jpg
+  img: images/fruits/redberry.png
   desc: 红莓
   ipa:
   extra:
 
 - word: watermelon
-  img: images/watermelon.jpg
+  img: images/fruits/watermelon.png
   desc: 西瓜
-  ipa:
+  ipa: "'wɔːtəmelən"
   extra:
 
 - word: muskmelon
-  img: images/muskmelon.jpg
+  img: images/fruits/muskmelon.png
   desc: 甜瓜
-  ipa:
+  ipa: "'mʌsk,melən"
   extra:
 
 - word: hami melon
-  img: images/hami melon.jpg
+  img: images/fruits/hami melon.png
   desc: 哈密瓜
   ipa:
   extra:
 
 - word: orange
-  img: images/orange.jpg
+  img: images/fruits/orange.png
   desc: 橘子
-  ipa:
+  ipa: "'ɒrɪn(d)ʒ"
   extra:
 
 - word: grapefruit
-  img: images/grapefruit.jpg
+  img: images/fruits/grapefruit.png
   desc: 葡萄柚
-  ipa:
+  ipa: "'greɪpfruːt"
   extra:
 
 - word: pomelo
-  img: images/pomelo.jpg
+  img: images/fruits/pomelo.png
   desc: 柚子
-  ipa:
+  ipa: "'pɒmələʊ; 'pʌm-"
   extra:
 
 - word: cherry
-  img: images/cherry.jpg
+  img: images/fruits/cherry.png
   desc: 车厘子/樱桃
-  ipa:  extra:
+  ipa: "'tʃerɪ"
+  extra:
 
 - word: pineapple
-  img: images/pineapple.jpg
+  img: images/fruits/pineapple.png
   desc: 菠萝
-  ipa:
+  ipa: "'paɪnæp(ə)l"
   extra:
 
 - word: plum
-  img: images/plum.jpg
+  img: images/fruits/plum.png
   desc: 李子
-  ipa:  extra:
+  ipa:  "plʌm"
+  extra:
 
 - word: peach
-  img: images/peach.jpg
+  img: images/fruits/peach.png
   desc: 桃子
-  ipa:
+  ipa: "piːtʃ"
   extra:
 
 - word: nectarine
-  img: images/nectarine.jpg
+  img: images/fruits/nectarine.png
   desc: 油桃
-  ipa:
+  ipa: "'nektərɪn; -iːn"
   extra:
 
 - word: hawthorn
-  img: images/hawthorn.jpg
+  img: images/fruits/hawthorn.png
   desc: 山楂
-  ipa:
+  ipa: "'hɔːθɔːn"
   extra:
 
 - word: cherry tomato
-  img: images/Cherry Tomato.jpg
+  img: images/fruits/cherry tomato.png
   desc: 圣女果
-  ipa:  extra:
+  ipa:
+  extra:
 
 - word: apricot
-  img: images/apricot.jpg
+  img: images/fruits/apricot.png
   desc: 杏
-  ipa:
+  ipa: "'eɪprɪkɒt"
   extra:
 
 - word: jujube
-  img: images/jujube.jpg
+  img: images/fruits/jujube.png
   desc: 枣子
-  ipa:
+  ipa: "'dʒuːdʒuːb"
   extra:
 
 - word: sugarcane
-  img: images/sugarcane.jpg
+  img: images/fruits/sugarcane.png
   desc: 甘蔗
-  ipa:
+  ipa: "'ʃʊgɚ,ken"
   extra:
 
 - word: coconut
-  img: images/coconut.jpg
+  img: images/fruits/coconut.png
   desc: 椰子
-  ipa:
+  ipa: "'kəʊkənʌt"
   extra:
 
 - word: carambola
-  img: images/carambola.jpg
+  img: images/fruits/carambola.png
   desc: 杨桃
-  ipa:
+  ipa: ",kær(ə)m'bəʊlə"
   extra:
 
 - word: lychee
-  img: images/lychee.jpg
+  img: images/fruits/lychee.png
   desc: 荔枝
-  ipa:  extra:
+  ipa: "'laɪtʃiː; 'lɪ-"
+  extra:
 
 - word: longan
-  img: images/longan.jpg
+  img: images/fruits/longan.png
   desc: 龙眼
-  ipa:
+  ipa: "'lɒŋg(ə)n"
   extra:
 
 - word: loquat
-  img: images/loquat.jpg
+  img: images/fruits/loquat.png
   desc: 枇杷
-  ipa:
+  ipa: "'ləʊkwɒt"
   extra:
 
 - word: mandarin
-  img: images/mandarin.jpg
+  img: images/fruits/mandarin.png
   desc: 柑橘
-  ipa:
+  ipa: "'mænd(ə)rɪn"
   extra:
 
 - word: mango
-  img: images/mango.jpg
+  img: images/fruits/mango.png
   desc: 芒果
-  ipa:
+  ipa: "'mæŋgəʊ"
   extra:
 
 - word: olive
-  img: images/olive.jpg
+  img: images/fruits/olive.png
   desc: 橄榄
-  ipa:
+  ipa: "'ɒlɪv"
   extra:
 
 - word: pomegranate
-  img: images/pomegranate.jpg
+  img: images/fruits/pomegranate.png
   desc: 石榴
-  ipa:
+  ipa: "'pɒmɪgrænɪt"
   extra:
 
 - word: water chestnut
-  img: images/water chestnut.jpg
+  img: images/fruits/water chestnut.png
   desc: 荸荠
-  ipa:
+  ipa: "'tʃesnʌt"
   extra:
 
 - word: persimmon
-  img: images/persimmon.jpg
+  img: images/fruits/persimmon.png
   desc: 柿子
-  ipa:
+  ipa: "pə'sɪmən"
   extra:
 
 - word: lime
-  img: images/lime.jpg
+  img: images/fruits/lime.png
   desc: 酸柠檬/绿柠檬
-  ipa:
+  ipa: "laɪm"
   extra:
 
 - word: lemon
-  img: images/lemon.jpg
+  img: images/fruits/lemon.png
   desc: 柠檬
-  ipa:
+  ipa: "'lemən"
   extra:
 
 

@@ -1,0 +1,16 @@
+---
+---
+{% assign fruits = site.data.word.fruits %}
+{
+ "data":[{% for fruit in fruits %}
+          {
+            "img":"{{fruit.img}}",
+            "word":"{{fruit.word}}",
+            "ipa":"{{fruit.ipa}}",
+            "extra":"{{fruit.extra}}",
+            "desc":"{{fruit.desc}}",
+            "random":null
+          }{% if forloop.last == false %},{% endif %}
+         {% endfor %}
+ ]
+}

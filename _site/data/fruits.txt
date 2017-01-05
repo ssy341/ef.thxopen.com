@@ -1,0 +1,365 @@
+
+{
+ "data":[
+          {
+            "img":"images/fruits/apple.png",
+            "word":"apple",
+            "ipa":"'æp(ə)l",
+            "extra":"adam's apple 喉结  apple of my eye 掌上明珠",
+            "desc":"苹果",
+            "random":null
+          },
+         
+          {
+            "img":"images/fruits/pitaya.png",
+            "word":"pitaya",
+            "ipa":"'pɪtəjə",
+            "extra":"",
+            "desc":"火龙果",
+            "random":null
+          },
+         
+          {
+            "img":"images/fruits/papaya.png",
+            "word":"papaya",
+            "ipa":"pə'paɪə",
+            "extra":"",
+            "desc":"木瓜",
+            "random":null
+          },
+         
+          {
+            "img":"images/fruits/pear.png",
+            "word":"pear",
+            "ipa":"peə",
+            "extra":"",
+            "desc":"梨",
+            "random":null
+          },
+         
+          {
+            "img":"images/fruits/grape.png",
+            "word":"grape",
+            "ipa":"greɪp",
+            "extra":"",
+            "desc":"葡萄",
+            "random":null
+          },
+         
+          {
+            "img":"images/fruits/banana.png",
+            "word":"banana",
+            "ipa":"bə'nɑːnə",
+            "extra":"",
+            "desc":"香蕉",
+            "random":null
+          },
+         
+          {
+            "img":"images/fruits/strawberry.png",
+            "word":"strawberry",
+            "ipa":"'strɔːb(ə)rɪ",
+            "extra":"",
+            "desc":"草莓",
+            "random":null
+          },
+         
+          {
+            "img":"images/fruits/blueberry.png",
+            "word":"blueberry",
+            "ipa":"'bluːb(ə)rɪ",
+            "extra":"",
+            "desc":"蓝莓",
+            "random":null
+          },
+         
+          {
+            "img":"images/fruits/blackberry.png",
+            "word":"blackberry",
+            "ipa":"'blækb(ə)rɪ",
+            "extra":"",
+            "desc":"黑莓",
+            "random":null
+          },
+         
+          {
+            "img":"images/fruits/raspberry.png",
+            "word":"raspberry",
+            "ipa":"'rɑːzb(ə)rɪ",
+            "extra":"",
+            "desc":"树莓",
+            "random":null
+          },
+         
+          {
+            "img":"images/fruits/redberry.png",
+            "word":"redberry",
+            "ipa":"",
+            "extra":"",
+            "desc":"红莓",
+            "random":null
+          },
+         
+          {
+            "img":"images/fruits/watermelon.png",
+            "word":"watermelon",
+            "ipa":"'wɔːtəmelən",
+            "extra":"",
+            "desc":"西瓜",
+            "random":null
+          },
+         
+          {
+            "img":"images/fruits/muskmelon.png",
+            "word":"muskmelon",
+            "ipa":"'mʌsk,melən",
+            "extra":"",
+            "desc":"甜瓜",
+            "random":null
+          },
+         
+          {
+            "img":"images/fruits/hami melon.png",
+            "word":"hami melon",
+            "ipa":"",
+            "extra":"",
+            "desc":"哈密瓜",
+            "random":null
+          },
+         
+          {
+            "img":"images/fruits/orange.png",
+            "word":"orange",
+            "ipa":"'ɒrɪn(d)ʒ",
+            "extra":"",
+            "desc":"橘子",
+            "random":null
+          },
+         
+          {
+            "img":"images/fruits/grapefruit.png",
+            "word":"grapefruit",
+            "ipa":"'greɪpfruːt",
+            "extra":"",
+            "desc":"葡萄柚",
+            "random":null
+          },
+         
+          {
+            "img":"images/fruits/pomelo.png",
+            "word":"pomelo",
+            "ipa":"'pɒmələʊ; 'pʌm-",
+            "extra":"",
+            "desc":"柚子",
+            "random":null
+          },
+         
+          {
+            "img":"images/fruits/cherry.png",
+            "word":"cherry",
+            "ipa":"'tʃerɪ",
+            "extra":"",
+            "desc":"车厘子/樱桃",
+            "random":null
+          },
+         
+          {
+            "img":"images/fruits/pineapple.png",
+            "word":"pineapple",
+            "ipa":"'paɪnæp(ə)l",
+            "extra":"",
+            "desc":"菠萝",
+            "random":null
+          },
+         
+          {
+            "img":"images/fruits/plum.png",
+            "word":"plum",
+            "ipa":"plʌm",
+            "extra":"",
+            "desc":"李子",
+            "random":null
+          },
+         
+          {
+            "img":"images/fruits/peach.png",
+            "word":"peach",
+            "ipa":"piːtʃ",
+            "extra":"",
+            "desc":"桃子",
+            "random":null
+          },
+         
+          {
+            "img":"images/fruits/nectarine.png",
+            "word":"nectarine",
+            "ipa":"'nektərɪn; -iːn",
+            "extra":"",
+            "desc":"油桃",
+            "random":null
+          },
+         
+          {
+            "img":"images/fruits/hawthorn.png",
+            "word":"hawthorn",
+            "ipa":"'hɔːθɔːn",
+            "extra":"",
+            "desc":"山楂",
+            "random":null
+          },
+         
+          {
+            "img":"images/fruits/cherry tomato.png",
+            "word":"cherry tomato",
+            "ipa":"",
+            "extra":"",
+            "desc":"圣女果",
+            "random":null
+          },
+         
+          {
+            "img":"images/fruits/apricot.png",
+            "word":"apricot",
+            "ipa":"'eɪprɪkɒt",
+            "extra":"",
+            "desc":"杏",
+            "random":null
+          },
+         
+          {
+            "img":"images/fruits/jujube.png",
+            "word":"jujube",
+            "ipa":"'dʒuːdʒuːb",
+            "extra":"",
+            "desc":"枣子",
+            "random":null
+          },
+         
+          {
+            "img":"images/fruits/sugarcane.png",
+            "word":"sugarcane",
+            "ipa":"'ʃʊgɚ,ken",
+            "extra":"",
+            "desc":"甘蔗",
+            "random":null
+          },
+         
+          {
+            "img":"images/fruits/coconut.png",
+            "word":"coconut",
+            "ipa":"'kəʊkənʌt",
+            "extra":"",
+            "desc":"椰子",
+            "random":null
+          },
+         
+          {
+            "img":"images/fruits/carambola.png",
+            "word":"carambola",
+            "ipa":",kær(ə)m'bəʊlə",
+            "extra":"",
+            "desc":"杨桃",
+            "random":null
+          },
+         
+          {
+            "img":"images/fruits/lychee.png",
+            "word":"lychee",
+            "ipa":"'laɪtʃiː; 'lɪ-",
+            "extra":"",
+            "desc":"荔枝",
+            "random":null
+          },
+         
+          {
+            "img":"images/fruits/longan.png",
+            "word":"longan",
+            "ipa":"'lɒŋg(ə)n",
+            "extra":"",
+            "desc":"龙眼",
+            "random":null
+          },
+         
+          {
+            "img":"images/fruits/loquat.png",
+            "word":"loquat",
+            "ipa":"'ləʊkwɒt",
+            "extra":"",
+            "desc":"枇杷",
+            "random":null
+          },
+         
+          {
+            "img":"images/fruits/mandarin.png",
+            "word":"mandarin",
+            "ipa":"'mænd(ə)rɪn",
+            "extra":"",
+            "desc":"柑橘",
+            "random":null
+          },
+         
+          {
+            "img":"images/fruits/mango.png",
+            "word":"mango",
+            "ipa":"'mæŋgəʊ",
+            "extra":"",
+            "desc":"芒果",
+            "random":null
+          },
+         
+          {
+            "img":"images/fruits/olive.png",
+            "word":"olive",
+            "ipa":"'ɒlɪv",
+            "extra":"",
+            "desc":"橄榄",
+            "random":null
+          },
+         
+          {
+            "img":"images/fruits/pomegranate.png",
+            "word":"pomegranate",
+            "ipa":"'pɒmɪgrænɪt",
+            "extra":"",
+            "desc":"石榴",
+            "random":null
+          },
+         
+          {
+            "img":"images/fruits/water chestnut.png",
+            "word":"water chestnut",
+            "ipa":"'tʃesnʌt",
+            "extra":"",
+            "desc":"荸荠",
+            "random":null
+          },
+         
+          {
+            "img":"images/fruits/persimmon.png",
+            "word":"persimmon",
+            "ipa":"pə'sɪmən",
+            "extra":"",
+            "desc":"柿子",
+            "random":null
+          },
+         
+          {
+            "img":"images/fruits/lime.png",
+            "word":"lime",
+            "ipa":"laɪm",
+            "extra":"",
+            "desc":"酸柠檬/绿柠檬",
+            "random":null
+          },
+         
+          {
+            "img":"images/fruits/lemon.png",
+            "word":"lemon",
+            "ipa":"'lemən",
+            "extra":"",
+            "desc":"柠檬",
+            "random":null
+          }
+         
+ ]
+}

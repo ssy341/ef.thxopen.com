@@ -55,7 +55,7 @@ thing denoted by it stands in regard to something else. Hence, you should have u
 
 ## Summary
 
-- 注意介词的使用，参考[Prepositions]({{site.baseurl}}/{% post_url word/2016-12-27-prepositions %})
+- 注意介词的使用，参考[Prepositions]({{site.baseurl}}/{% post_url 2016-12-27-prepositions %})
 - 注意代词使用，代词代替名词时，☞的是人，地方或者物
 
 

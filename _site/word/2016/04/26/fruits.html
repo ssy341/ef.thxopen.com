@@ -8,6 +8,7 @@
     <link rel="stylesheet" href="/assets/css/main.css" />
     <!--[if lte IE 9]><link rel="stylesheet" href="/assets/css/ie9.css" /><![endif]-->
     <!--[if lte IE 8]><link rel="stylesheet" href="/assets/css/ie8.css" /><![endif]-->
+    
 </head>
 <body>
 
@@ -45,95 +46,18 @@
                             <span itemprop="name">Keith Shan</span></span>
                         </p>
                 </header>
-                <p>生活中我们需要描述方位来告诉别人自己的位置或者某物的位置，但英语中我们常常会有些分不清，我在学习的
-过程中也是经常把这些词弄混，下面我来总结下方位名词，顺便复习复习。</p>
+                <p>下面是生活中常见的水果，你都知道么？</p>
 
 <!--more-->
 
-<hr />
-<div class="4u">
-    
-<span class="image fit">
-    <img src="/images/apple.jpg" alt="apple" />
-</span>
+<div id="container">
 
-    apple
-    adam's apple 喉结 apple of my eye 掌上明珠
 </div>
-
-<hr />
-<div class="4u">
-    
-<span class="image fit">
-    <img src="/images/orange.jpg" alt="orange" />
-</span>
-
-    orange
-    12312
-</div>
-
-<hr />
-<div class="4u">
-    
-<span class="image fit">
-    <img src="/images/pitaya.jpg" alt="pitaya" />
-</span>
-
-    pitaya
-    
-</div>
-
-<hr />
-<div class="4u">
-    
-<span class="image fit">
-    <img src="/images/papaya.jpg" alt="papaya" />
-</span>
-
-    papaya
-    
-</div>
-
-<hr />
-<div class="4u">
-    
-<span class="image fit">
-    <img src="/images/pear.jpg" alt="pear" />
-</span>
-
-    pear
-    
-</div>
-
-<hr />
-<div class="4u">
-    
-<span class="image fit">
-    <img src="/images/grape.jpg" alt="grape" />
-</span>
-
-    grape
-    
-</div>
-
-<hr />
-
-<h4 id="picture-reference">Picture reference:</h4>
-
-<blockquote>
-  <p>http://www.macmillandictionaryblog.com/wp-content/uploads/2011/12/Prepositions-wordle.jpg</p>
-</blockquote>
-
-<blockquote>
-  <p>http://thechalkboardunicorn.com/wp-content/uploads/2015/02/Prepositions11x17.gif</p>
-</blockquote>
 
 
             </section>
-
         </div>
     </div>
-
     <!-- Sidebar -->
     <div id="sidebar">
     <div class="inner">
@@ -231,7 +155,6 @@ confused adjectives.
 
     </div>
 </div>
-
 </div>
 
 
@@ -241,6 +164,44 @@ confused adjectives.
 <script src="/assets/js/util.js"></script>
 <!--[if lte IE 8]><script src="/assets/js/ie/respond.min.js"></script><![endif]-->
 <script src="/assets/js/main.js"></script>
+<script src="/assets/js/common.js"></script> <script src="/assets/laytpl/laytpl.js"></script> <script type="text/html" id="wordstpl">
+    <hr>
+    <div class="4u">
+        <span class="image fit">
+            <img src="/{{d.img}}" alt="{{d.desc}}">
+        </span>
+        {{ d.word }} /{{ d.ipa }}/
+        {{# if(d.extra){ }}
+        <ul>
+            <li>{{ d.extra }}</li>
+        </ul>
+        {{# } }}
+    </div>
+</script> <script>
+    $(function(){
+        $.ajax({
+            url:"/data/fruits.txt",
+            success:function(data){
+                data = JSON.parse(data);
+                var temp = [];
+                for(var i = 0;i<data.data.length;i++){
+                    data.data[i].random = Math.random()*100;
+                    temp.push(data.data[i]);
+                }
+                console.log(temp);
+                var final = sortArry(temp);
+                console.log(final);
+                var html = $("#wordstpl").html();
+                for(var w = 0;w<final.length;w++){
+                    laytpl(html).render(final[w],function(result){
+                        $("#container").append(result);
+                    })
+                }
+            }
+        })
+    })
+</script>
+
 
 </body>
 </html>
