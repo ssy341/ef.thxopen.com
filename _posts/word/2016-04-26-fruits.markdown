@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Prepositions
+title:  Fruits
 categories: word
 author: Keith Shan
 pic: images/composition/Prepositions-wordle.jpg

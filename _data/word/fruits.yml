@@ -1,9 +1,243 @@
 - word: apple
-  img: images/pic01.jpg
-  desc: 123
-  extra: 12312
+  img: images/apple.jpg
+  desc: 苹果
+  extra: adam's apple 喉结 apple of my eye 掌上明珠
+  ipa:
 
 - word: orange
-  img: images/pic01.jpg
-  desc: 123
-  extra: 12312
+  img: images/orange.jpg
+  desc: 橘子
+  ipa:
+  extra:
+
+- word: pitaya
+  img: images/pitaya.jpg
+  desc: 火龙果
+  ipa:
+  extra:
+
+- word: papaya
+  img: images/papaya.jpg
+  desc: 木瓜
+  ipa:
+  extra:
+
+- word: pear
+  img: images/pear.jpg
+  desc: 梨
+  ipa:
+  extra:
+
+- word: grape
+  img: images/grape.jpg
+  desc: 葡萄
+  ipa:
+  extra:
+
+- word: banana
+  img: images/banana.jpg
+  desc: 香蕉
+  ipa:
+  extra:
+
+- word: strawberry
+  img: images/strawberry.jpg
+  desc: 草莓
+  ipa:
+  extra:
+
+- word: blueberry
+  img: images/blueberry.jpg
+  desc: 蓝莓
+  ipa:
+  extra:
+
+- word: blackberry
+  img: images/blackberry.jpg
+  desc: 黑莓
+  ipa:
+  extra:
+
+- word: raspberry
+  img: images/raspberry.jpg
+  desc: 树莓
+  ipa:
+  extra:
+
+- word: redberry
+  img: images/redberry.jpg
+  desc: 红莓
+  ipa:
+  extra:
+
+- word: watermelon
+  img: images/watermelon.jpg
+  desc: 西瓜
+  ipa:
+  extra:
+
+- word: muskmelon
+  img: images/muskmelon.jpg
+  desc: 甜瓜
+  ipa:
+  extra:
+
+- word: hami melon
+  img: images/hami melon.jpg
+  desc: 哈密瓜
+  ipa:
+  extra:
+
+- word: orange
+  img: images/orange.jpg
+  desc: 橘子
+  ipa:
+  extra:
+
+- word: grapefruit
+  img: images/grapefruit.jpg
+  desc: 葡萄柚
+  ipa:
+  extra:
+
+- word: pomelo
+  img: images/pomelo.jpg
+  desc: 柚子
+  ipa:
+  extra:
+
+- word: cherry
+  img: images/cherry.jpg
+  desc: 车厘子/樱桃
+  ipa:  extra:
+
+- word: pineapple
+  img: images/pineapple.jpg
+  desc: 菠萝
+  ipa:
+  extra:
+
+- word: plum
+  img: images/plum.jpg
+  desc: 李子
+  ipa:  extra:
+
+- word: peach
+  img: images/peach.jpg
+  desc: 桃子
+  ipa:
+  extra:
+
+- word: nectarine
+  img: images/nectarine.jpg
+  desc: 油桃
+  ipa:
+  extra:
+
+- word: hawthorn
+  img: images/hawthorn.jpg
+  desc: 山楂
+  ipa:
+  extra:
+
+- word: cherry tomato
+  img: images/Cherry Tomato.jpg
+  desc: 圣女果
+  ipa:  extra:
+
+- word: apricot
+  img: images/apricot.jpg
+  desc: 杏
+  ipa:
+  extra:
+
+- word: jujube
+  img: images/jujube.jpg
+  desc: 枣子
+  ipa:
+  extra:
+
+- word: sugarcane
+  img: images/sugarcane.jpg
+  desc: 甘蔗
+  ipa:
+  extra:
+
+- word: coconut
+  img: images/coconut.jpg
+  desc: 椰子
+  ipa:
+  extra:
+
+- word: carambola
+  img: images/carambola.jpg
+  desc: 杨桃
+  ipa:
+  extra:
+
+- word: lychee
+  img: images/lychee.jpg
+  desc: 荔枝
+  ipa:  extra:
+
+- word: longan
+  img: images/longan.jpg
+  desc: 龙眼
+  ipa:
+  extra:
+
+- word: loquat
+  img: images/loquat.jpg
+  desc: 枇杷
+  ipa:
+  extra:
+
+- word: mandarin
+  img: images/mandarin.jpg
+  desc: 柑橘
+  ipa:
+  extra:
+
+- word: mango
+  img: images/mango.jpg
+  desc: 芒果
+  ipa:
+  extra:
+
+- word: olive
+  img: images/olive.jpg
+  desc: 橄榄
+  ipa:
+  extra:
+
+- word: pomegranate
+  img: images/pomegranate.jpg
+  desc: 石榴
+  ipa:
+  extra:
+
+- word: water chestnut
+  img: images/water chestnut.jpg
+  desc: 荸荠
+  ipa:
+  extra:
+
+- word: persimmon
+  img: images/persimmon.jpg
+  desc: 柿子
+  ipa:
+  extra:
+
+- word: lime
+  img: images/lime.jpg
+  desc: 酸柠檬/绿柠檬
+  ipa:
+  extra:
+
+- word: lemon
+  img: images/lemon.jpg
+  desc: 柠檬
+  ipa:
+  extra:
+
+
