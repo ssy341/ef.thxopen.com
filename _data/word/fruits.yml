@@ -1,8 +1,8 @@
 - word: apple
   img: images/fruits/apple.png
   desc: 苹果
-  extra: adam's apple 喉结  apple of my eye 掌上明珠
   ipa: "'æp(ə)l"
+  extra:  adam's apple 喉结 <br> apple of my eye 掌上明珠
 
 - word: pitaya
   img: images/fruits/pitaya.png
@@ -14,7 +14,7 @@
   img: images/fruits/papaya.png
   desc: 木瓜
   ipa: "pə'paɪə"
-  extra:
+  extra: pawpaw ['pɔpɔ]
 
 - word: pear
   img: images/fruits/pear.png
@@ -98,7 +98,7 @@
   img: images/fruits/pomelo.png
   desc: 柚子
   ipa: "'pɒmələʊ; 'pʌm-"
-  extra:
+  extra: pawpaw ['pɔpɔ]
 
 - word: cherry
   img: images/fruits/cherry.png
@@ -122,7 +122,7 @@
   img: images/fruits/peach.png
   desc: 桃子
   ipa: "piːtʃ"
-  extra:
+  extra:  flat peach 蟠桃 <br> honey peach 水蜜桃
 
 - word: nectarine
   img: images/fruits/nectarine.png
@@ -134,7 +134,7 @@
   img: images/fruits/hawthorn.png
   desc: 山楂
   ipa: "'hɔːθɔːn"
-  extra:
+  extra: haw [hɔ] 山楂果
 
 - word: cherry tomato
   img: images/fruits/cherry tomato.png
@@ -152,7 +152,7 @@
   img: images/fruits/jujube.png
   desc: 枣子
   ipa: "'dʒuːdʒuːb"
-  extra:
+  extra: Chinese date <br> pitted date 去核枣
 
 - word: sugarcane
   img: images/fruits/sugarcane.png
@@ -237,5 +237,49 @@
   desc: 柠檬
   ipa: "'lemən"
   extra:
+
+- word: jackfruit
+  img: images/fruits/jackfruit.gif
+  desc: 菠萝蜜
+  ipa: "'dʒækfrut"
+  extra:
+
+- word: durian
+  img: images/fruits/durian.png
+  desc: 榴莲
+  ipa: "ˈdʊəriən"
+  extra:
+
+- word: areca nut
+  img: images/fruits/areca nut.jpg
+  desc: 槟榔果
+  ipa: ",ə'rikɚ"
+  extra:
+
+- word: kiwi fruit
+  img: images/fruits/kiwi fruit.jpg
+  desc: 猕猴桃
+  ipa: "'kiwi"
+  extra: Chinese gooseberry
+
+- word: cumquat
+  img: images/fruits/cumquat.JPG
+  desc: 金橘
+  ipa: "'kʌmkwɔt"
+  extra:
+
+- word: greengage
+  img: images/fruits/greengage.jpg
+  desc: 青梅
+  ipa: "'griːngeɪdʒ"
+  extra:
+
+- word: waxberry
+  img: images/fruits/waxberry.jpg
+  desc: 杨梅
+  ipa: "'wæks,bɛri"
+  extra: red bayberry
+
+
 
 

@@ -5,7 +5,7 @@
             "img":"images/fruits/apple.png",
             "word":"apple",
             "ipa":"'æp(ə)l",
-            "extra":"adam's apple 喉结  apple of my eye 掌上明珠",
+            "extra":"adam's apple 喉结 <br> apple of my eye 掌上明珠",
             "desc":"苹果",
             "random":null
           },
@@ -23,7 +23,7 @@
             "img":"images/fruits/papaya.png",
             "word":"papaya",
             "ipa":"pə'paɪə",
-            "extra":"",
+            "extra":"pawpaw ['pɔpɔ]",
             "desc":"木瓜",
             "random":null
           },
@@ -149,7 +149,7 @@
             "img":"images/fruits/pomelo.png",
             "word":"pomelo",
             "ipa":"'pɒmələʊ; 'pʌm-",
-            "extra":"",
+            "extra":"pawpaw ['pɔpɔ]",
             "desc":"柚子",
             "random":null
           },
@@ -185,7 +185,7 @@
             "img":"images/fruits/peach.png",
             "word":"peach",
             "ipa":"piːtʃ",
-            "extra":"",
+            "extra":"flat peach 蟠桃 <br> honey peach 水蜜桃",
             "desc":"桃子",
             "random":null
           },
@@ -203,7 +203,7 @@
             "img":"images/fruits/hawthorn.png",
             "word":"hawthorn",
             "ipa":"'hɔːθɔːn",
-            "extra":"",
+            "extra":"haw [hɔ] 山楂果",
             "desc":"山楂",
             "random":null
           },
@@ -230,7 +230,7 @@
             "img":"images/fruits/jujube.png",
             "word":"jujube",
             "ipa":"'dʒuːdʒuːb",
-            "extra":"",
+            "extra":"Chinese date <br> pitted date 去核枣",
             "desc":"枣子",
             "random":null
           },
@@ -358,6 +358,69 @@
             "ipa":"'lemən",
             "extra":"",
             "desc":"柠檬",
+            "random":null
+          },
+         
+          {
+            "img":"images/fruits/jackfruit.gif",
+            "word":"jackfruit",
+            "ipa":"'dʒækfrut",
+            "extra":"",
+            "desc":"菠萝蜜",
+            "random":null
+          },
+         
+          {
+            "img":"images/fruits/durian.png",
+            "word":"durian",
+            "ipa":"ˈdʊəriən",
+            "extra":"",
+            "desc":"榴莲",
+            "random":null
+          },
+         
+          {
+            "img":"images/fruits/areca nut.jpg",
+            "word":"areca nut",
+            "ipa":",ə'rikɚ",
+            "extra":"",
+            "desc":"槟榔果",
+            "random":null
+          },
+         
+          {
+            "img":"images/fruits/kiwi fruit.jpg",
+            "word":"kiwi fruit",
+            "ipa":"'kiwi",
+            "extra":"Chinese gooseberry",
+            "desc":"猕猴桃",
+            "random":null
+          },
+         
+          {
+            "img":"images/fruits/cumquat.JPG",
+            "word":"cumquat",
+            "ipa":"'kʌmkwɔt",
+            "extra":"",
+            "desc":"金橘",
+            "random":null
+          },
+         
+          {
+            "img":"images/fruits/greengage.jpg",
+            "word":"greengage",
+            "ipa":"'griːngeɪdʒ",
+            "extra":"",
+            "desc":"青梅",
+            "random":null
+          },
+         
+          {
+            "img":"images/fruits/waxberry.jpg",
+            "word":"waxberry",
+            "ipa":"'wæks,bɛri",
+            "extra":"red bayberry",
+            "desc":"杨梅",
             "random":null
           }
          
