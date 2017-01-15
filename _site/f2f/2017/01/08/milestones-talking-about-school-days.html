@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-    <title>Fruits</title>
+    <title>Milestones · Talking about school days</title>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
     <!--[if lte IE 8]><script src="/assets/js/ie/html5shiv.js"></script><![endif]-->
@@ -35,10 +35,10 @@
             <!-- Content -->
             <section>
                 <header class="main">
-                    <h1>Fruits</h1>
+                    <h1>Milestones · Talking about school days</h1>
                     <p class="post-meta">
-                        <time datetime="2016-04-26T00:00:00+08:00" itemprop="datePublished">
-                            Apr 26, 2016
+                        <time datetime="2017-01-08T00:00:00+08:00" itemprop="datePublished">
+                            Jan 8, 2017
                         </time>
                          •
                         <span itemprop="author" itemscope
@@ -46,14 +46,56 @@
                             <span itemprop="name">Keith Shan</span></span>
                         </p>
                 </header>
-                <p>下面是生活中常见的水果，你都知道么？</p>
+                <p>By the end of this lesson, you will be able to talk about your school days.
+读书的时候你最擅长什么？最糟糕的是什么？都有些什么学科呢？</p>
 
 <!--more-->
 
-<div id="container">
+<ul>
+  <li>Science</li>
+  <li>Languages</li>
+  <li>Music</li>
+  <li>Drawing</li>
+  <li>Sports
+    <ul>
+      <li>Football</li>
+      <li>Badminton</li>
+    </ul>
+  </li>
+  <li>Dancing</li>
+  <li>Chemistry</li>
+  <li>Math</li>
+  <li>History</li>
+</ul>
 
-</div>
+<p>terrible at
+ really bad at
+ wasn’t very good at</p>
 
+<p>excellent at
+ great at</p>
+
+<p>I wasn’t very good at math <strong>or</strong> dance.</p>
+
+<p>Were you good at … ?</p>
+
+<p>I liked …
+I didn’t like …</p>
+
+<p>I was good/bad at …
+I was excellent/great at …</p>
+
+<p>I was terrible at …
+I was really bad at …
+I wasn’t very good at …</p>
+
+<p>Were you good at …
+Did you bed at …
+What were you good at?
+What were you not so good at?</p>
+
+<p>report card
+marbles</p>
 
             </section>
         </div>
@@ -154,43 +196,6 @@
 <script src="/assets/js/util.js"></script>
 <!--[if lte IE 8]><script src="/assets/js/ie/respond.min.js"></script><![endif]-->
 <script src="/assets/js/main.js"></script>
-<script src="/assets/js/common.js"></script> <script src="/assets/laytpl/laytpl.js"></script> <script type="text/html" id="wordstpl">
-    <hr>
-    <div class="4u">
-        <span class="image fit">
-            <img src="/{{d.img}}" alt="{{d.desc}}">
-        </span>
-        {{ d.word }} /{{ d.ipa }}/
-        {{# if(d.extra){ }}
-        <ul>
-            <li>{{ d.extra }}</li>
-        </ul>
-        {{# } }}
-    </div>
-</script> <script>
-    $(function(){
-        $.ajax({
-            url:"/data/fruits.txt",
-            success:function(data){
-                data = JSON.parse(data);
-                var temp = [];
-                for(var i = 0;i<data.data.length;i++){
-                    data.data[i].random = Math.random()*100;
-                    temp.push(data.data[i]);
-                }
-                console.log(temp);
-                var final = sortArry(temp);
-                console.log(final);
-                var html = $("#wordstpl").html();
-                for(var w = 0;w<final.length;w++){
-                    laytpl(html).render(final[w],function(result){
-                        $("#container").append(result);
-                    })
-                }
-            }
-        })
-    })
-</script>
 
 
 </body>
