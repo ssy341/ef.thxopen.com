@@ -6,13 +6,16 @@ author: Keith Shan
 pic: images/pic01.jpg
 ---
 
+
+{% include 4u.html src="images/me.JPG" col="6u 12u$(medium)" %}
+
 My name is Shan siyi, my English name is Keith. I'm 25 years old, I come from Changde in Hunan. Now I live in Chengdu. I am a computer programmer.
 <!--more-->
 
 ### All things are difficult before they are easy
 
-There is an old saying，"All things are difficult before they are easy". I always remember the experience that fixing computer cost me 200RMB,and I decided that I would earn the money back.
-When I was in high school,I knew a master and i got some skills from him. When I was in university, I chose software project major. When I graduated, I engaged in three jobs which were related to my major.
+There is an old saying，"All things are difficult before they are easy". I always remember the experience that fixing computer cost me 200RMB, and I decided that I would earn the money back.
+When I was in high school, I knew a master and i got some skills from him. When I was in university, I chose software project major. When I graduated, I engaged in three jobs which were related to my major.
 
 It cannot stop, and I have been working on IT for almost 10 years. Anyway, it is a perfect thing that I can persist on one thing for ten years. Now,I really comprehend it that the interest is the best teacher.
 
@@ -39,13 +42,13 @@ We learn English at school for a long time, but we still can't speak English aft
 
 I have been so happy in EF, because I can make so many friends here, including three foreign teachers, Clark, Daniel, and Tommy, and they are friendly.
 
-{% include 4u.html src="images/teacher/Clark.JPG" %}
+{% include 4u.html src="images/teacher/Clark.JPG" col="6u 12u$(medium)" %}
 This is Clark, very tall(197) ……
 
-{% include 4u.html src="images/teacher/Daniel.JPG" %}
+{% include 4u.html src="images/teacher/Daniel.JPG" col="6u 12u$(medium)" %}
 This is Daniel, very kind
 
-{% include 4u.html src="images/teacher/Tommy.JPG" %}
+{% include 4u.html src="images/teacher/Tommy.JPG" col="6u 12u$(medium)" %}
 The people with taking picture is Tommy, he is very funny
 
 Previously, I was afraid of speaking when I saw the foreigners, I just gave them a node, which meant saying hello. Now, it is different and I can communicate with them in some simple conversations.
@@ -53,7 +56,7 @@ If I made mistakes,teachers will correct them. Sometimes, teachers will teach me
 
 ### Learn Try Apply
 
-{% include 4u.html src="images/learn try apply.png" %}
+{% include 4u.html src="images/learn try apply.png" col="6u 12u$(medium)" %}
 
 EF's core is Learn-Try-Apply. 
 

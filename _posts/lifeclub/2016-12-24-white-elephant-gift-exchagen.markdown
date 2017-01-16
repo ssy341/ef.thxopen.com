@@ -32,7 +32,7 @@ one **theory** suggests that Ezra Cornell brought the term into the popular **le
 
 ## What gift I got
 
-{% include 4u.html src="images/composition/coccinella septempunctata.jpg" %}
+{% include 4u.html src="images/composition/coccinella septempunctata.jpg" col="6u" %}
 
 
 ## Vocabulary
