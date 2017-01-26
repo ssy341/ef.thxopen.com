@@ -1,0 +1,228 @@
+- word: mathematics
+  img: images/fruits/pitaya.png
+  desc: 数学
+  ipa: ",mæθə'mætɪks"
+  extra:
+
+- word: physics
+  img: images/fruits/pear.png
+  desc: 物理
+  ipa: "'fɪzɪks"
+  extra:
+
+- word: chemistry
+  img: images/fruits/grape.png
+  desc: 化学
+  ipa: "'kɛmɪstri"
+  extra:
+
+- word: biology
+  img: images/fruits/banana.png
+  desc: 生物
+  ipa: "baɪ'ɑlədʒi"
+  extra:
+
+- word: history
+  img: images/fruits/strawberry.png
+  desc: 历史
+  ipa: "ˈhɪstəri; ˈhɪstri"
+  extra:
+
+- word: science
+  img: images/fruits/blueberry.png
+  desc: 科学
+  ipa: "'saɪəns"
+  extra: social science 社会科学 <br/> commercial science 商学
+
+- word: Geography
+  img: images/fruits/blackberry.png
+  desc: 地理
+  ipa: "dʒɪ'ɑɡrəfi"
+  extra: physical geography 自然地理学
+
+- word: algebra
+  img: images/fruits/raspberry.png
+  desc: 代数
+  ipa: "'ældʒɪbrə"
+  extra:
+
+- word: geometry
+  img: images/fruits/redberry.png
+  desc: 几何
+  ipa: "dʒɪ'ɑmətri"
+  extra:
+
+- word: biochemistry
+  img: images/fruits/watermelon.png
+  desc: 生物化学
+  ipa: "'baɪo'kɛmɪstri"
+  extra:
+
+- word: literature
+  img: images/fruits/muskmelon.png
+  desc: 文学
+  ipa: "lɪtərəˌtʃʊr"
+  extra:
+
+- word: sociology
+  img: images/fruits/hami melon.png
+  desc: 社会学
+  ipa: ",sosɪ'ɑlədʒi"
+  extra:
+
+- word: linguistics
+  img: images/fruits/orange.png
+  desc: 语言学
+  ipa: "lɪŋ'ɡwɪstɪks"
+  extra:
+
+- word: languages
+  img: images/fruits/orange.png
+  desc: 语系
+  ipa: "'læŋgwɪdʒ"
+  extra: Chinese 语文 <br> English 英语 <br>Japanese 日语 <br> spanish 西班牙语
+
+- word: psychology
+  img: images/fruits/grapefruit.png
+  desc: 心理学
+  ipa: "saɪ'kɑlədʒi"
+  extra:
+
+- word: philosophy
+  img: images/fruits/pomelo.png
+  desc: 哲学
+  ipa: "fə'lɑsəfi"
+  extra: pawpaw ['pɔpɔ]
+
+- word: engineering
+  img: images/fruits/cherry.png
+  desc: 工程学
+  ipa: "'ɛndʒə'nɪrɪŋ"
+  extra:  mechanical engineering 机械工程学  <br> electrical engineering 电气工程  <br> civil engineering 土木工程学  <br> chemical engineering 化学工程
+
+- word: medicine
+  img: images/fruits/pineapple.png
+  desc: 医学
+  ipa: "'mɛdsn"
+  extra:
+
+- word: agriculture
+  img: images/fruits/plum.png
+  desc: 农业
+  ipa:  "'æɡrɪkʌltʃɚ"
+  extra:
+
+- word: astronomy
+  img: images/fruits/peach.png
+  desc: 天文学
+  ipa: "ə'strɑnəmi"
+  extra:
+
+- word: economics
+  img: images/fruits/nectarine.png
+  desc: 经济学
+  ipa: "'ikə'nɑmɪks; 'ɛkə'nɑmɪks"
+  extra:
+
+- word: politics
+  img: images/fruits/hawthorn.png
+  desc: 政治学
+  ipa: "'pɑlətɪks"
+  extra:
+
+- word: anthropology
+  img: images/fruits/cherry tomato.png
+  desc: 人类学
+  ipa: "'ænθrə'pɑlədʒi"
+  extra:
+
+- word: accounting
+  img: images/fruits/apricot.png
+  desc: 会计学
+  ipa: "ə'kaʊntɪŋ"
+  extra:
+
+- word: law
+  img: images/fruits/jujube.png
+  desc: 法学
+  ipa: "lɔ"
+  extra: jurisprudence
+
+- word: banking
+  img: images/fruits/sugarcane.png
+  desc: 银行学
+  ipa: "'bæŋkɪŋ"
+  extra:
+
+- word: metallurgy
+  img: images/fruits/coconut.png
+  desc: 冶金学
+  ipa: "'mɛtəlɝdʒi"
+  extra:
+
+- word: finance
+  img: images/fruits/carambola.png
+  desc: 财政学
+  ipa: "'faɪnæns"
+  extra:
+
+- word: mass-communication
+  img: images/fruits/lychee.png
+  desc: 大众传播学
+  ipa: "mæs kə,mjunɪ'keʃən"
+  extra:
+
+- word: journalism
+  img: images/fruits/longan.png
+  desc: 新闻学
+  ipa: "'dʒɝnl'ɪzəm"
+  extra:
+
+- word: atomic energy
+  img: images/fruits/loquat.png
+  desc: 原子能学
+  ipa: "ə'tɑmɪk 'ɛnɚdʒi"
+  extra:
+
+- word: statistics
+  img: images/fruits/mandarin.png
+  desc: 统计学
+  ipa: "stə'tɪstɪks"
+  extra: accounting and statistics 会计
+
+- word: analytics
+  img: images/fruits/mandarin.png
+  desc: 分析学
+  ipa: ",ænl'ɪtɪks"
+  extra:
+
+- word: business administration
+  img: images/fruits/mango.png
+  desc: 工商管理
+  ipa: "ˈbɪznəs əd,mɪnɪ'streʃən"
+  extra:
+
+- word: diplomacy
+  img: images/fruits/olive.png
+  desc: 外交学
+  ipa: "dɪ'ploməsi"
+  extra:
+
+- word: botany
+  img: images/fruits/pomegranate.png
+  desc: 植物学
+  ipa: "'bɑtəni"
+  extra:
+
+
+- word: PE(physical education)
+  img: images/fruits/pomegranate.png
+  desc: 体育
+  ipa: "'fɪzɪkl ,ɛdʒu'keʃən"
+  extra:
+
+
+
+
+
+

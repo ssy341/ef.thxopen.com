@@ -11,3 +11,22 @@ function sortArry(arr){
     }
     return arr;
 }
+
+function messUp(arr){
+    var temp = [];
+    for(var i = 0;i<arr.length;i++){
+        arr[i].random = Math.random()*100;
+        temp.push(arr[i]);
+    }
+    return sortArry(temp);
+}
+
+function efajax(url,callback){
+    $.ajax({
+        url:url,
+        success:function(data){
+            data = JSON.parse(data);
+            callback(data);
+        }
+    })
+}

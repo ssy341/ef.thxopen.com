@@ -1,0 +1,301 @@
+
+{
+ "data":[
+          {
+            "word":"mathematics",
+            "ipa":",mæθə'mætɪks",
+            "extra":"",
+            "desc":"数学",
+            "random":null
+          },
+         
+          {
+            "word":"physics",
+            "ipa":"'fɪzɪks",
+            "extra":"",
+            "desc":"物理",
+            "random":null
+          },
+         
+          {
+            "word":"chemistry",
+            "ipa":"'kɛmɪstri",
+            "extra":"",
+            "desc":"化学",
+            "random":null
+          },
+         
+          {
+            "word":"biology",
+            "ipa":"baɪ'ɑlədʒi",
+            "extra":"",
+            "desc":"生物",
+            "random":null
+          },
+         
+          {
+            "word":"history",
+            "ipa":"ˈhɪstəri; ˈhɪstri",
+            "extra":"",
+            "desc":"历史",
+            "random":null
+          },
+         
+          {
+            "word":"science",
+            "ipa":"'saɪəns",
+            "extra":"social science 社会科学 <br/> commercial science 商学",
+            "desc":"科学",
+            "random":null
+          },
+         
+          {
+            "word":"Geography",
+            "ipa":"dʒɪ'ɑɡrəfi",
+            "extra":"physical geography 自然地理学",
+            "desc":"地理",
+            "random":null
+          },
+         
+          {
+            "word":"algebra",
+            "ipa":"'ældʒɪbrə",
+            "extra":"",
+            "desc":"代数",
+            "random":null
+          },
+         
+          {
+            "word":"geometry",
+            "ipa":"dʒɪ'ɑmətri",
+            "extra":"",
+            "desc":"几何",
+            "random":null
+          },
+         
+          {
+            "word":"biochemistry",
+            "ipa":"'baɪo'kɛmɪstri",
+            "extra":"",
+            "desc":"生物化学",
+            "random":null
+          },
+         
+          {
+            "word":"literature",
+            "ipa":"lɪtərəˌtʃʊr",
+            "extra":"",
+            "desc":"文学",
+            "random":null
+          },
+         
+          {
+            "word":"sociology",
+            "ipa":",sosɪ'ɑlədʒi",
+            "extra":"",
+            "desc":"社会学",
+            "random":null
+          },
+         
+          {
+            "word":"linguistics",
+            "ipa":"lɪŋ'ɡwɪstɪks",
+            "extra":"",
+            "desc":"语言学",
+            "random":null
+          },
+         
+          {
+            "word":"languages",
+            "ipa":"'læŋgwɪdʒ",
+            "extra":"Chinese 语文 <br> English 英语 <br>Japanese 日语 <br> spanish 西班牙语",
+            "desc":"语系",
+            "random":null
+          },
+         
+          {
+            "word":"psychology",
+            "ipa":"saɪ'kɑlədʒi",
+            "extra":"",
+            "desc":"心理学",
+            "random":null
+          },
+         
+          {
+            "word":"philosophy",
+            "ipa":"fə'lɑsəfi",
+            "extra":"pawpaw ['pɔpɔ]",
+            "desc":"哲学",
+            "random":null
+          },
+         
+          {
+            "word":"engineering",
+            "ipa":"'ɛndʒə'nɪrɪŋ",
+            "extra":"mechanical engineering 机械工程学  <br> electrical engineering 电气工程  <br> civil engineering 土木工程学  <br> chemical engineering 化学工程",
+            "desc":"工程学",
+            "random":null
+          },
+         
+          {
+            "word":"medicine",
+            "ipa":"'mɛdsn",
+            "extra":"",
+            "desc":"医学",
+            "random":null
+          },
+         
+          {
+            "word":"agriculture",
+            "ipa":"'æɡrɪkʌltʃɚ",
+            "extra":"",
+            "desc":"农业",
+            "random":null
+          },
+         
+          {
+            "word":"astronomy",
+            "ipa":"ə'strɑnəmi",
+            "extra":"",
+            "desc":"天文学",
+            "random":null
+          },
+         
+          {
+            "word":"economics",
+            "ipa":"'ikə'nɑmɪks; 'ɛkə'nɑmɪks",
+            "extra":"",
+            "desc":"经济学",
+            "random":null
+          },
+         
+          {
+            "word":"politics",
+            "ipa":"'pɑlətɪks",
+            "extra":"",
+            "desc":"政治学",
+            "random":null
+          },
+         
+          {
+            "word":"anthropology",
+            "ipa":"'ænθrə'pɑlədʒi",
+            "extra":"",
+            "desc":"人类学",
+            "random":null
+          },
+         
+          {
+            "word":"accounting",
+            "ipa":"ə'kaʊntɪŋ",
+            "extra":"",
+            "desc":"会计学",
+            "random":null
+          },
+         
+          {
+            "word":"law",
+            "ipa":"lɔ",
+            "extra":"jurisprudence",
+            "desc":"法学",
+            "random":null
+          },
+         
+          {
+            "word":"banking",
+            "ipa":"'bæŋkɪŋ",
+            "extra":"",
+            "desc":"银行学",
+            "random":null
+          },
+         
+          {
+            "word":"metallurgy",
+            "ipa":"'mɛtəlɝdʒi",
+            "extra":"",
+            "desc":"冶金学",
+            "random":null
+          },
+         
+          {
+            "word":"finance",
+            "ipa":"'faɪnæns",
+            "extra":"",
+            "desc":"财政学",
+            "random":null
+          },
+         
+          {
+            "word":"mass-communication",
+            "ipa":"mæs kə,mjunɪ'keʃən",
+            "extra":"",
+            "desc":"大众传播学",
+            "random":null
+          },
+         
+          {
+            "word":"journalism",
+            "ipa":"'dʒɝnl'ɪzəm",
+            "extra":"",
+            "desc":"新闻学",
+            "random":null
+          },
+         
+          {
+            "word":"atomic energy",
+            "ipa":"ə'tɑmɪk 'ɛnɚdʒi",
+            "extra":"",
+            "desc":"原子能学",
+            "random":null
+          },
+         
+          {
+            "word":"statistics",
+            "ipa":"stə'tɪstɪks",
+            "extra":"accounting and statistics 会计",
+            "desc":"统计学",
+            "random":null
+          },
+         
+          {
+            "word":"analytics",
+            "ipa":",ænl'ɪtɪks",
+            "extra":"",
+            "desc":"分析学",
+            "random":null
+          },
+         
+          {
+            "word":"business administration",
+            "ipa":"ˈbɪznəs əd,mɪnɪ'streʃən",
+            "extra":"",
+            "desc":"工商管理",
+            "random":null
+          },
+         
+          {
+            "word":"diplomacy",
+            "ipa":"dɪ'ploməsi",
+            "extra":"",
+            "desc":"外交学",
+            "random":null
+          },
+         
+          {
+            "word":"botany",
+            "ipa":"'bɑtəni",
+            "extra":"",
+            "desc":"植物学",
+            "random":null
+          },
+         
+          {
+            "word":"PE(physical education)",
+            "ipa":"'fɪzɪkl ,ɛdʒu'keʃən",
+            "extra":"",
+            "desc":"体育",
+            "random":null
+          }
+         
+ ]
+}

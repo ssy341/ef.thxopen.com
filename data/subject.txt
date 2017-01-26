@@ -1,0 +1,15 @@
+---
+---
+{% assign subjects = site.data.word.subject %}
+{
+ "data":[{% for subject in subjects %}
+          {
+            "word":"{{subject.word}}",
+            "ipa":"{{subject.ipa}}",
+            "extra":"{{subject.extra}}",
+            "desc":"{{subject.desc}}",
+            "random":null
+          }{% if forloop.last == false %},{% endif %}
+         {% endfor %}
+ ]
+}

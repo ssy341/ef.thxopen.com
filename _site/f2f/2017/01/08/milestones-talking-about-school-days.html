@@ -46,8 +46,9 @@
                             <span itemprop="name">Keith Shan</span></span>
                         </p>
                 </header>
-                <p>By the end of this lesson, you will be able to talk about your school days.
-读书的时候你最擅长什么？最糟糕的是什么？都有些什么学科呢？</p>
+                <p>By the end of this lesson, you will be able to talk about your school days.</p>
+
+<p>读书的时候你最擅长什么？最糟糕的是什么？都有些什么学科呢？你最擅长什么呢？</p>
 
 <!--more-->
 
@@ -68,34 +69,81 @@
   <li>History</li>
 </ul>
 
-<p>terrible at
- really bad at
- wasn’t very good at</p>
+<h3 id="related-phrase">Related Phrase</h3>
 
-<p>excellent at
- great at</p>
+<h4 id="good">good</h4>
 
-<p>I wasn’t very good at math <strong>or</strong> dance.</p>
+<ul>
+  <li>excellent at</li>
+  <li>great at</li>
+  <li>I liked …</li>
+</ul>
 
-<p>Were you good at … ?</p>
+<h4 id="bed">bed</h4>
 
-<p>I liked …
-I didn’t like …</p>
+<ul>
+  <li>terrible at</li>
+  <li>really bad at</li>
+  <li>wasn’t very good at</li>
+  <li>I didn’t like …</li>
+  <li>I wasn’t very good at math <strong>or</strong> dance.</li>
+</ul>
 
-<p>I was good/bad at …
-I was excellent/great at …</p>
+<p>想知道我擅长什么，不擅长什么吗？答案在例句里哦~~</p>
 
-<p>I was terrible at …
-I was really bad at …
-I wasn’t very good at …</p>
+<h3 id="related-sentence">Related Sentence</h3>
 
-<p>Were you good at …
-Did you bed at …
-What were you good at?
-What were you not so good at?</p>
+<ul>
+  <li>I was good/bad at …
+    <ul>
+      <li>I was good at PE.</li>
+    </ul>
+  </li>
+  <li>I was excellent/great at …
+    <ul>
+      <li>I was excellent at play.</li>
+    </ul>
+  </li>
+  <li>I was terrible at …
+    <ul>
+      <li>I was terrible at math.</li>
+    </ul>
+  </li>
+  <li>I was really bad at …</li>
+  <li>
+    <p>I wasn’t very good at …</p>
+  </li>
+  <li>Were you good at …
+    <ul>
+      <li>Were you good at Music?</li>
+    </ul>
+  </li>
+  <li>What were you good at?</li>
+  <li>What were you not so good at?</li>
+</ul>
 
-<p>report card
-marbles</p>
+<h3 id="related-words">Related Words</h3>
+
+<ul>
+  <li>major /’medʒɚ/ 主修</li>
+  <li>minor /’maɪnɚ/ 辅修</li>
+  <li>racecar /’reis,kɑ:/ n. 赛车</li>
+  <li>report card 成绩单</li>
+  <li>marbles /’mɑrbl/
+    <ul>
+      <li>n. 大理石；大理石制品；弹珠</li>
+      <li>adj. 大理石的；冷酷无情的</li>
+    </ul>
+  </li>
+</ul>
+
+<h4 id="section">看看下面这些学科你都知道么？ <strong>↓↓↓</strong> 底部有彩蛋 ……</h4>
+
+<div id="subject_container">
+
+</div>
+
+<h5 id="a-b-c-d-f--e-">国外的评分是用 A B C D F 来打分的，奇怪的是为什么没有 E 呢？你知道么？</h5>
 
             </section>
         </div>
@@ -145,7 +193,8 @@ wonderful students. Though some of you don’t have the basic techniques of pain
                         <img src="/images/pic11.jpg" alt=""/>
                     </a>
                     <p>By the end of this lesson, you will be able to talk about your school days.
-读书的时候你最擅长什么？最糟糕的是什么？都有些什么学科呢？
+
+读书的时候你最擅长什么？最糟糕的是什么？都有些什么学科呢？你最擅长什么呢？
 
 </p>
                 </article>
@@ -197,6 +246,30 @@ wonderful students. Though some of you don’t have the basic techniques of pain
 <script src="/assets/js/util.js"></script>
 <!--[if lte IE 8]><script src="/assets/js/ie/respond.min.js"></script><![endif]-->
 <script src="/assets/js/main.js"></script>
+<script src="/assets/js/common.js"></script> <script src="/assets/laytpl/laytpl.js"></script> <script type="text/html" id="subjecttpl">
+    <ul>
+        {{# for(var i = 0 ; i < d.length; i++ ){ }}
+        <li>
+            <b>{{ d[i].word }}</b>  /{{ d[i].ipa }}/  {{ d[i].desc }}
+            {{# if(d[i].extra){ }}
+            <dl>
+                {{ d[i].extra }}
+            </dl>
+            {{# } }}
+        </li>
+        {{# } }}
+    </ul>    
+</script> <script>
+    $(function(){
+       efajax("/data/subject.txt",function(data){
+            var final = messUp(data.data);
+            var html = $("#subjecttpl").html();
+            laytpl(html).render(final,function(result){
+                $("#subject_container").append(result);
+            })
+        })
+    })
+</script>
 
 
 </body>
