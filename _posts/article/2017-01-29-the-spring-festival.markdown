@@ -95,38 +95,77 @@ So, When is your animal year?
  
 ### Some stuffs
 
-#### Putting up Spring Festival Scrolls
+在过年前还有一些准备工作，办年货，扫尘，贴春联，贴窗花，福字，年画，挂灯笼，燃爆竹，来迎接新年的到来
+
+
+- #### Spring festival shopping
+
+ {% include 4u.html src="images/the spring festival/res04_attpic_brief.jpg" col="6u 12u$(medium)" %}
+ 
+ 一年最高兴的就是这个时候，去超市买很多自己想吃的，哇……(¯﹃¯)
+
+- #### Sweeping the dust
+
+ {% include 4u.html src="images/the spring festival/20131022205502_BC3dB.thumb.600_0.jpeg" col="6u 12u$(medium)" %}
+
+
+- #### Pasting Spring Festival Scrolls
 
  {% include 4u.html src="images/the spring festival/2014-font-b-spring-b-font-festival-font-b-window-b-font-sticker-scrolls-distich-door.jpg" col="6u 12u$(medium)" %}
 
-在迎接新年之前我们都要贴春联（Spring Festival Scrolls），春联分为上联（the left scroll）、下联（the right scroll）以及横批（the top scroll）。
+春联（Spring Festival Scrolls），春联分为上联（the left scroll）、下联（the right scroll）以及横批（the top scroll）。
 除去横批，一般性的对联，我们叫 couplet ，也就是我们说的对句，所以春联还可以说成 Spring Festival Couplets
 
-#### Putting up Chinese lantern
+- #### Posting up paper-cut for window decoration, red character of fu and New year paintings
+ {% include 4u.html src="images/the spring festival/12640373_564551.jpg" col="6u 12u$(medium)" %}
+ {% include 4u.html src="images/the spring festival/8-16010H0552BK.jpg" col="6u 12u$(medium)" %}
+
+- #### Putting up Chinese lantern
 
  {% include 4u.html src="images/the spring festival/chinese-new-year-lanterns.jpg" col="6u 12u$(medium)" %}
  
-除了春联，还要挂上红红的灯笼
+除了春联，福字，贴花等，还要挂上红红的灯笼
+
+- #### set/shoot off firecrackers
+
+ {% include 4u.html src="images/the spring festival/T1GnVEFBXmXXXXXXXX_!!0-item_pic.jpg" col="6u 12u$(medium)" %}
+ 
+ 最后我们还要放鞭炮
+ 
+ 
+## 过年
+
+准备工作都做完了，接下来就是做好年夜饭过年咯
+
+### Family Reunion Dinner
+
+ {% include 4u.html src="images/the spring festival/tt_cwk5oto1dkg.jpg" col="6u 12u$(medium)" %}
+ 
+ 在吃年夜饭前，我们会祭拜祖先（worshiping ancestors），“邀请”他们一起来和我们吃年夜饭。然后我们就可以开始享受年夜饭和看春晚了。
+ （ Enjoying a Reunion Dinner and Watching CCTV's New Year Gala.）
+ 
+  {% include 4u.html src="images/the spring festival/ded1c62c23e2c50fbe1e2cae112aaac7.jpg" col="6u 12u$(medium)" %}
+
 
 ### Picture Reference
 
-> http://loktinfengshui.com.au/wp-content/uploads/2015/02/Chinese-Zodiac-12-Animals-in-red.png
+> - http://www.seeedstudio.com/blog/wp-content/uploads/2013/01/Happy-Spring-Festival.jpg
+> - http://loktinfengshui.com.au/wp-content/uploads/2015/02/Chinese-Zodiac-12-Animals-in-red.png
+> - http://www.freeastrology123.com/wp-content/uploads/2013/07/Chinese-Zodiac-Symbols.jpg
+> - http://www.china.com.cn/v/travel/2013-07/16/content_29439950.htm
+> - http://www.america2050.org/upload/2011/01/obama-high-speed-rail-plans.jpg
+> - http://www.personal.psu.edu/afr3/blogs/siowfa12/airplane.jpg
+> - http://www.easylimo.co.uk/wp-content/gallery/mercedes-coach-gallery1/coach1.jpg
+> - http://i00.i.aliimg.com/wsphoto/v0/1595211626/2014-font-b-spring-b-font-festival-font-b-window-b-font-sticker-scrolls-distich-door.jpg
+> - http://www.123newyear.com/wp-content/uploads/2015/04/chinese-new-year-lanterns.jpg
+> - http://www.qnsb.com/fzepaper/site1/qnsb/res/1/1/2008-01/18/C17/res04_attpic_brief.jpg
+> - http://img5.duitang.com/uploads/blog/201310/22/20131022205502_BC3dB.thumb.600_0.jpeg
+> - http://pic1.hebei.com.cn/0/12/64/03/12640373_564551.jpg
+> - http://www.hmz.com/uploads/allimg/160107/8-16010H0552BK.jpg
+> - http://img06.taobaocdn.com/bao/uploaded/i4/i4/T1GnVEFBXmXXXXXXXX_!!0-item_pic.jpg
+> - http://www.meiyan.la/jiankang/yinshi/100592.html
+> - http://n.cztv.com/news/12402031.html
 
-> http://www.freeastrology123.com/wp-content/uploads/2013/07/Chinese-Zodiac-Symbols.jpg
-
-> http://www.seeedstudio.com/blog/wp-content/uploads/2013/01/Happy-Spring-Festival.jpg
-
-> http://www.china.com.cn/v/travel/2013-07/16/content_29439950.htm
-
-> http://www.america2050.org/upload/2011/01/obama-high-speed-rail-plans.jpg
-
-> http://www.personal.psu.edu/afr3/blogs/siowfa12/airplane.jpg
-
-> http://www.easylimo.co.uk/wp-content/gallery/mercedes-coach-gallery1/coach1.jpg
-
-> http://i00.i.aliimg.com/wsphoto/v0/1595211626/2014-font-b-spring-b-font-festival-font-b-window-b-font-sticker-scrolls-distich-door.jpg
-
-> http://www.123newyear.com/wp-content/uploads/2015/04/chinese-new-year-lanterns.jpg
 
 
 
