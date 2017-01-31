@@ -141,30 +141,59 @@ So, When is your animal year?
 
  {% include 4u.html src="images/the spring festival/tt_cwk5oto1dkg.jpg" col="6u 12u$(medium)" %}
  
- 在吃年夜饭前，我们会祭拜祖先（worshiping ancestors），“邀请”他们一起来和我们吃年夜饭。然后我们就可以开始享受年夜饭和看春晚了。
+ 每年年夜饭都会准备很多很多吃的，有鱼（fish），鸭（duck），鸡（chicken），香肠（sausage），腊肉（preserved meat/smoked meat/bacon）,
+ 饺子（dumplings），包子（steamed stuffed buns）……
+ 
+ 在吃年夜饭前，我们会祭拜祖先（worshiping ancestors），“邀请”他们一起来和我们吃年夜饭。然后我们就可以开始享受年夜饭和看春晚了。 
  （ Enjoying a Reunion Dinner and Watching CCTV's New Year Gala.）
  
   {% include 4u.html src="images/the spring festival/ded1c62c23e2c50fbe1e2cae112aaac7.jpg" col="6u 12u$(medium)" %}
+  
+### Spring Festival Taboos
 
+在过年的时候，还有很多禁忌（taboo）我们是不能做的，为什么呢？不行就是不行（**Don't just don't**）
 
-### Picture Reference
+  {% include 4u.html src="images/the spring festival/Taboos.png" col="6u 12u$(medium)" %}
+  
+  Many bad words like "death", "broken", "killing", "ghost" and "illness" or "sickness" are **forbidden** during conversations. 
+  Crying, washing, lending and taking medicine are also considered **unlucky**.
+  
+### Red Envelopes
 
-> - http://www.seeedstudio.com/blog/wp-content/uploads/2013/01/Happy-Spring-Festival.jpg
-> - http://loktinfengshui.com.au/wp-content/uploads/2015/02/Chinese-Zodiac-12-Animals-in-red.png
-> - http://www.freeastrology123.com/wp-content/uploads/2013/07/Chinese-Zodiac-Symbols.jpg
-> - http://www.china.com.cn/v/travel/2013-07/16/content_29439950.htm
-> - http://www.america2050.org/upload/2011/01/obama-high-speed-rail-plans.jpg
-> - http://www.personal.psu.edu/afr3/blogs/siowfa12/airplane.jpg
-> - http://www.easylimo.co.uk/wp-content/gallery/mercedes-coach-gallery1/coach1.jpg
-> - http://i00.i.aliimg.com/wsphoto/v0/1595211626/2014-font-b-spring-b-font-festival-font-b-window-b-font-sticker-scrolls-distich-door.jpg
-> - http://www.123newyear.com/wp-content/uploads/2015/04/chinese-new-year-lanterns.jpg
-> - http://www.qnsb.com/fzepaper/site1/qnsb/res/1/1/2008-01/18/C17/res04_attpic_brief.jpg
-> - http://img5.duitang.com/uploads/blog/201310/22/20131022205502_BC3dB.thumb.600_0.jpeg
-> - http://pic1.hebei.com.cn/0/12/64/03/12640373_564551.jpg
-> - http://www.hmz.com/uploads/allimg/160107/8-16010H0552BK.jpg
-> - http://img06.taobaocdn.com/bao/uploaded/i4/i4/T1GnVEFBXmXXXXXXXX_!!0-item_pic.jpg
-> - http://www.meiyan.la/jiankang/yinshi/100592.html
-> - http://n.cztv.com/news/12402031.html
+过年的时候最高兴的时候莫过于拿红包（Red Envelopes）了，现在大家都有手机了，就出现了支付宝和微信红包（ digital red packets / wechat red envelopes）
+ 
+ {% include 4u.html src="images/the spring festival/timg.jpg" col="6u 12u$(medium)" %}
+
+Giving Red Envelopes to kids means lucky.
+  
+### Staying up late on New Year's Eve
+
+{% include 4u.html src="images/the spring festival/585b9d75ee45d.jpg" col="6u 12u$(medium)" %}
+  
+
+### Reference
+> - Material
+> - [Chinese New Year (Spring Festival)](https://www.travelchinaguide.com/essential/holidays/spring-festival.htm)
+
+> - Picture
+> - [Happy-Spring-Festival.jpg](http://www.seeedstudio.com/blog/wp-content/uploads/2013/01/Happy-Spring-Festival.jpg)
+> - [Chinese-Zodiac-12-Animals-in-red.png](http://loktinfengshui.com.au/wp-content/uploads/2015/02/Chinese-Zodiac-12-Animals-in-red.png)
+> - [Chinese-Zodiac-Symbols.jpg](http://www.freeastrology123.com/wp-content/uploads/2013/07/Chinese-Zodiac-Symbols.jpg)
+> - [连接粤桂黔渝绿皮车“退役”](http://www.china.com.cn/v/travel/2013-07/16/content_29439950.htm)
+> - [obama-high-speed-rail-plans.jpg](http://www.america2050.org/upload/2011/01/obama-high-speed-rail-plans.jpg)
+> - [airplane.jpg](http://www.personal.psu.edu/afr3/blogs/siowfa12/airplane.jpg)
+> - [coach1.jpg](http://www.easylimo.co.uk/wp-content/gallery/mercedes-coach-gallery1/coach1.jpg)
+> - [2014-font-b-spring-b-font-festival-font-b-window-b-font-sticker-scrolls-distich-door.jpg](http://i00.i.aliimg.com/wsphoto/v0/1595211626/2014-font-b-spring-b-font-festival-font-b-window-b-font-sticker-scrolls-distich-door.jpg)
+> - [chinese-new-year-lanterns.jpg](http://www.123newyear.com/wp-content/uploads/2015/04/chinese-new-year-lanterns.jpg)
+> - [res04_attpic_brief.jpg](http://www.qnsb.com/fzepaper/site1/qnsb/res/1/1/2008-01/18/C17/res04_attpic_brief.jpg)
+> - [20131022205502_BC3dB.thumb.600_0.jpeg](http://img5.duitang.com/uploads/blog/201310/22/20131022205502_BC3dB.thumb.600_0.jpeg)
+> - [2640373_564551.jpg](http://pic1.hebei.com.cn/0/12/64/03/12640373_564551.jpg)
+> - [8-16010H0552BK.jpg](http://www.hmz.com/uploads/allimg/160107/8-16010H0552BK.jpg)
+> - [T1GnVEFBXmXXXXXXXX_!!0-item_pic.jpg](http://img06.taobaocdn.com/bao/uploaded/i4/i4/T1GnVEFBXmXXXXXXXX_!!0-item_pic.jpg)
+> - [美食｜创意年夜饭，来点不一样的年味](http://www.meiyan.la/jiankang/yinshi/100592.html)
+> - [2017春节晚会 蔡明潘长江小品《老伴》](http://n.cztv.com/news/12402031.html)
+> - [春节守岁的来历](http://www.qbaobei.com/jiaoyu/709634.html)
+> - [Internet firms battle for relevance in red envelope race](http://www.chinadaily.com.cn/china/2016-02/09/content_23441913.htm)
 
 
 
