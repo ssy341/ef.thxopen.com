@@ -93,7 +93,7 @@ So, When is your animal year?
  
 越来越多的人开始选择飞机，而且价格相比较下还是比较实惠，作为平民的我们肯定不会选择头等舱（first class）也不会选择商务舱（business class），经济舱（economy class）是我们的最佳选择
  
-### Some stuffs
+### Preparing
 
 在过年前还有一些准备工作，办年货，扫尘，贴春联，贴窗花，福字，年画，挂灯笼，燃爆竹，来迎接新年的到来
 
@@ -125,12 +125,6 @@ So, When is your animal year?
  {% include 4u.html src="images/the spring festival/chinese-new-year-lanterns.jpg" col="6u 12u$(medium)" %}
  
 除了春联，福字，贴花等，还要挂上红红的灯笼
-
-- #### set/shoot off firecrackers
-
- {% include 4u.html src="images/the spring festival/T1GnVEFBXmXXXXXXXX_!!0-item_pic.jpg" col="6u 12u$(medium)" %}
- 
- 最后我们还要放鞭炮
  
  
 ## 过年
@@ -170,6 +164,85 @@ Giving Red Envelopes to kids means lucky.
 
 {% include 4u.html src="images/the spring festival/585b9d75ee45d.jpg" col="6u 12u$(medium)" %}
   
+### Listening to a New year bell  
+ {% include 4u.html src="images/the spring festival/0013025577593531_b.jpg" col="6u 12u$(medium)" %}
+
+
+### set/shoot off Firecrackers and Fireworks
+
+ {% include 4u.html src="images/the spring festival/T1GnVEFBXmXXXXXXXX_!!0-item_pic.jpg" col="6u 12u$(medium)" %}
+ {% include 4u.html src="images/the spring festival/fireworks.jpg" col="6u 12u$(medium)" %}
+ 
+ 
+## 过年后
+
+### New Year Greetings
+ 过了年之后，开始走亲访友（visiting relatives and friends），下面列出一些常用的祝福语
+ 
+#### Ten Chinese lucky characters
+ 
+   - Blessing 福
+   - Prosperity 禄
+   - Longevity 寿
+   - Happiness 喜
+   - Wealth / money 财
+   - Harmony 和
+   - Love 爱
+   - Beauty 美
+   - Luck 吉
+   - Virtue 德
+ 
+#### Chinese four-character phrases
+ 
+  - Happy new year. 新春快乐
+  - Happy Spring festival. 新春快乐
+  - Happy Chinese New Year. 新春快乐
+  - Good luck for this Rooster year. 鸡年吉祥
+  - Good luck for the year of the Rooster.
+  - Lots of luck for this Rooster year. 鸡年大吉
+  - May all your wishes come true. 心想事成
+  - Everything goes well. 万事如意
+  - Congratulations and be prosperous. 恭喜发财
+  - Wish you a lot of progress in your studies. 学业进步
+  - Wish you a great success in your career. 事业有成
+  - Wish you every success
+  - May you start safe and sound a year around
+  - Hope everything gose your way / smoothly
+  - Wish you a booming business
+ 
+#### Best wishes for the new year
+ 
+ - Best wishes for the holidays and happiness throughout the New Year.
+ - May the coming new year bring you joy, love, health and peace.
+ - Good luck and great success in the coming New year.
+ - Wishing you prosperity, joy and success in this year of the Rooster, and always.
+ 
+### Leisure activities -- killing time 
+ 
+ 大人们，孩子们聚在一起了喜欢一起打麻将（Mahjong，单张麻将叫 Mahjong tiles 或者 character），玩扑克（poker game）或者一起看电影（Go to the movies/catch a movie)等等一些娱乐活动来消磨时光
+
+### Most people go back to work at 7th 
+ 
+ 大约初七、初八大多数人开始要工作，感觉噩梦又要开始咯
+
+### Lantern Festival
+
+ {% include 4u.html src="images/the spring festival/medium-7970176a-b3bb-496c-b964-ff0bd55223f31n.jpg" col="6u 12u$(medium)" %}
+
+正月十五，元宵节，是新年之后的第一个节日，也代表这年过完了（Chinese New Year period ends）,在这天我们吃汤圆（sweet/glutinous dumplings ）,
+逛灯会（join the Lantern Festival），猜灯谜（guess Lantern riddles）
+
+
+## New Year Resolutions
+
+新年里，我的愿望就是 makes me better，虽然只有一句话，但是我需要做的很多很多，加油，341
+
+今年我在成都过年，终于没有鞭炮和礼炮的干扰，我完整的看完了一次春节联欢晚会，以往在老家，每当12点，外面都会放烟花爆竹，
+声音完全掩盖了电视的声音，而且会持续很长一段时间，导致每次都不能看完。不过说回来，今年没有这个喧闹，我突然感觉好像少了点什么…… 
+
+随着年龄的增长，感觉过年的味道慢慢淡去，不再像小时候那么期待过年，但是不管怎样，能够跟家人在一起就是最幸福最幸福的事情。
+
+2016走好，2017你好……
 
 ### Reference
 > - Material
@@ -194,9 +267,8 @@ Giving Red Envelopes to kids means lucky.
 > - [2017春节晚会 蔡明潘长江小品《老伴》](http://n.cztv.com/news/12402031.html)
 > - [春节守岁的来历](http://www.qbaobei.com/jiaoyu/709634.html)
 > - [Internet firms battle for relevance in red envelope race](http://www.chinadaily.com.cn/china/2016-02/09/content_23441913.htm)
+> - [新年倒计时图片](http://www.photophoto.cn/show/08846957.html)
+> - [fireworks.jpg](http://blog.timesunion.com/crime/files/2011/06/fireworks.jpg)
+> - [#CHINA-LUNAR NEW YEAR-LANTERN FESTIVAL (CN)](http://news.xinhuanet.com/photo/2011-02/16/c_1086475.htm)
 
 
-
-
-<!--今年我在成都过年，终于没有鞭炮和礼炮的干扰，我完整的看完了一次春节联欢晚会，以往在老家，每当12点，外面都会放烟花爆竹，
-声音完全掩盖了电视的声音，而且会持续很长一段时间，导致每次都不能看完。不过说回来，今年没有这个喧闹，我突然感觉好像少了点什么…… -->
