@@ -10,7 +10,7 @@ email: keith@thxopen.com
 github: https://github.com/ssy341/ef.thxopen.com
 
 # page config
-gems: [jekyll-paginate]
+plugins: [jekyll-paginate]
 paginate: 10
 paginate_path: "/note/page:num/"
 

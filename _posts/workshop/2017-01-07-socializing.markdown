@@ -52,7 +52,7 @@ By the end of this lesson, you will be able to make social arrangements with fri
  
  - Ok, great. So I'll see you outside **my office building（place）**, **7pm(time)** on **Friday(day)**?
  
-### [Prepositions]({{site.baseurl}}{% post_url 2016-12-27-prepositions %})
+### [Prepositions]({{site.baseurl}}{% post_url word/2016-12-27-prepositions %})
 描述时间时使用介词 at/in/on ，他们的区别如下
 
  - at 具体的时间
