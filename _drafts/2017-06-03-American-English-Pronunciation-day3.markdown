@@ -34,5 +34,11 @@ Betty bought a bit of better butter.
 
 {% include Audio.html src="/assets/media/pronunciation/keith-day3.wav" type="wav" %}
 
+需要注意的知识点
 
+1. 卷舌音。butter，better 注意卷舌音
+2. t 变 d。句子中所有 t 都发 d，有没有注意到，句子中 t 听起来就像 d 呢？这是闪音 t 的发音技巧
+3. 阶梯状语调。betty bought butter 是重要信息，是重读，其他是弱读。注意末尾的 f 失爆，不发音。
+4. 节奏，说的要像爵士乐般的节奏感。
+5. 连读的问题
 

@@ -7,9 +7,11 @@ pic: images/pic05.jpg
 ---
 
 If you love him, bring him to NewYork, for it's heaven;
+
 如果你爱他，就把他送到纽约去，因为那里是天堂
 
 If you hate him, bring him to NewYork, for it's hell
+
 如果你很他，就把他送到纽约去，因为哪里是地域
 
 <!--more-->
