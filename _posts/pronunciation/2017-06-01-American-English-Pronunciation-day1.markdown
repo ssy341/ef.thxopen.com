@@ -21,7 +21,7 @@ R发音技巧：
 跟着上面的发音规则，自己试试看吧。
 
 听听我的模仿
-{% include Audio.html src="/assets/media/pronunciation/keith-day1.wav" type="wav" %}
+{% include Audio.html src="/assets/media/pronunciation/keith_6-1.wav" type="wav" %}
 
 需要注意的知识点
 
@@ -29,6 +29,12 @@ R发音技巧：
 2. Who [hu] 送气太多，听上去像“互”
 3. you j+u 的发音方式没有掌握，读成了“右”
 4. Wearing ea 的发音没有注意，wea 读成“歪”
+
+下面看一段老友记的片段，看看外国人的说话方式如何，一起感受下吧
+
+{% include html5_vedio.html src="/assets/media/pronunciation/Friends-season1-001.mp4" %}
+
+注意视频中的**There's**,**work**,**Your're**,**Wrong**,**hair**,**Carl**，这些带r的单词
 
 
 
