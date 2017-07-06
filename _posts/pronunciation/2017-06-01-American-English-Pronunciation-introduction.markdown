@@ -46,7 +46,7 @@ pic: images/pronunciation/Pronunciation.jpg
 
 | Mon | TUE | WED |  THU |  FIR | SAT | SUN |
 |:------|:------|:------|:------|:------|:------|:------|
-|       |        |          | __1st__ [卷舌音r]({% post_url pronunciation/2017-06-01-American-English-Pronunciation-day1 %}) | __2nd__ 后口腔发音 | __3rd__ 美式语音语调 | __4th__ 休息|
+|       |        |          | __1st__ [卷舌音r]({% post_url pronunciation/2017-06-01-American-English-Pronunciation-day1 %}) | __2nd__ [后口腔发音]({% post_url pronunciation/2017-06-02-American-English-Pronunciation-day2 %}) | __3rd__ 美式语音语调 | __4th__ 休息|
 | __5th__ H的击穿连读 | __6th__ 美式双元音aoww | __7th__ 闪音 | __8th__ 鼻腔爆破 | __9th__ ɑ和æ的发音 | __10th__ 读句正确分轻重 | __11th__ 休息 |
 | __12th__ 用重音改变句意 | __13th__ 玩转语气语音 | __14th__ 舌侧音:L | __15th__ sit和seat | __16th__ full和fool | __17th__ 舌侧爆破 | __18th__ 休息|
 | __19th__ the的两种发音 | __20th__ -tly和-dly | __21th__ 辅音+元音的连读 | __22th__ 失爆 | __23th__ 不完全爆破 | __24th__ 辅音相同延长发音 | __25th__ 休息|
