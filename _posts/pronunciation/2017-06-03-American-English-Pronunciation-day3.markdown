@@ -12,11 +12,9 @@ Betty bought a bit of better butter.
 
 <!--more-->
 
+{% include Audio.html src="/assets/media/pronunciation/eg6-3.mp3" type="mp3" %}
+
 ### 美音发音技巧 —— 语音语调
-
-{% include Audio.html src="/assets/media/pronunciation/Day3.mp3" type="mp3" %}
-
-
 
 - 1.注意连读，避免逐字发音
 
@@ -26,13 +24,11 @@ Betty bought a bit of better butter.
 
 - 3.学会使用阶梯状的语调，也就是中文的抑扬顿挫
 
-
-
 这些都是让我们的口语听起来地道的一种方式。
 
 听听我的模仿
 
-{% include Audio.html src="/assets/media/pronunciation/keith-day3.wav" type="wav" %}
+{% include Audio.html src="/assets/media/pronunciation/keith-6-3.wav" type="wav" %}
 
 需要注意的知识点
 
