@@ -18,7 +18,7 @@ If you hate him, bring him to NewYork, for it's hell
 
 ### 美音发音技巧 —— H的击穿连读
 
-{% include Audio.html src="/assets/media/pronunciation/Day5.mp3" type="mp3" %}
+{% include Audio.html src="/assets/media/pronunciation/eg6-5.mp3" type="mp3" %}
 
 首先，要知道“h”是一个很轻的音，发音时喉咙收紧，气流从中流出，声带不震动。
 所以这个“h”的发音总是被它后面发音相对响亮的元音所掩盖，就像是这里him/hɪm/这个词H被后面的/ɪ/掩盖了一样，
@@ -30,7 +30,7 @@ If you hate him, bring him to NewYork, for it's hell
 
 听听我的模仿
 
-{% include Audio.html src="/assets/media/pronunciation/keith-day5.wav" type="wav" %}
+{% include Audio.html src="/assets/media/pronunciation/keith-6-5.wav" type="wav" %}
 
 
 
