@@ -32,5 +32,8 @@ If you hate him, bring him to NewYork, for it's hell
 
 {% include Audio.html src="/assets/media/pronunciation/keith-6-5.wav" type="wav" %}
 
-
+需要注意的知识点
+- 1. h 的击穿：注意如果你是重读，h sound 要自然发出，It’s Heaven. It’s Hell. 如果是弱读，h 音会比较轻微甚至听不出。
+注意击穿“h”的过程，就是一个口型从辅音变化到元音时的过程。在这个变化过程中，你首先要感觉发音舒服，怎么舒服怎么来。如果你送气，就是发了“h”，如果你不送气，就是没有发。
+- 2.阶梯状语调，重读和弱读。注意今天的句子里，if, him, to, of 等是弱读。
 
