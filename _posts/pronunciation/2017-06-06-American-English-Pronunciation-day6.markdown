@@ -27,3 +27,10 @@ Where is the young lady who I am supposed to take downtown?
 
 {% include Audio.html src="/assets/media/pronunciation/keith-6-6.wav" type="wav" %}
 
+
+需要注意的知识点
+- 1.downtown 的发音：注意从/æ/过度到/ʊ/ 。 æ 的口型开口非常大，发音时嘴唇尽量向两侧分开。
+- 2.阶梯状语调：is, the, who am I to 等都是弱读，注意语调
+- 3.单词读音：young 的鼻音/ŋ/，lady 的元音不够饱满, am 的元音
+- 4.suppose to 的连读: supposetə
+- 5.Where is: 视频里读的是 where is, 可以略读成 Where’ s, 也可以连读成 where-ris

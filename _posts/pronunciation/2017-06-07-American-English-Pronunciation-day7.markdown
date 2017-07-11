@@ -14,7 +14,7 @@ All that matters is you getting better.
 
 ### 美音发音技巧 —— 闪音
 
-{% include Audio.html src="/assets/media/pronunciation/day7.mp3" type="mp3" %}
+{% include Audio.html src="/assets/media/pronunciation/eg6-7.mp3" type="mp3" %}
 
 闪音也称弹音，是美音的发音方法之一。
 
@@ -29,7 +29,7 @@ All that matters is you getting better.
 
 听听我的模仿
 
-{% include Audio.html src="/assets/media/pronunciation/keith-day7.wav" type="wav" %}
+{% include Audio.html src="/assets/media/pronunciation/keith-6-7.wav" type="wav" %}
 
 
 
