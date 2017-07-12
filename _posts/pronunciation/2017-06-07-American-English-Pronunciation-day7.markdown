@@ -32,4 +32,9 @@ All that matters is you getting better.
 {% include Audio.html src="/assets/media/pronunciation/keith-6-7.wav" type="wav" %}
 
 
+需要注意的知识点
+- 1. matter, getting, better 注意闪音技巧以及闪音在单词中要弱读
+- 2. matter, better 注意卷舌音 r
+
+
 
