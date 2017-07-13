@@ -29,5 +29,13 @@ I told her there's a certain wedding at the garden.
 
 {% include Audio.html src="/assets/media/pronunciation/keith-6-8.wav" type="wav" %}
 
+需要注意的知识点
+1. 单词读音：wedding 的元音
+2. 卷舌音：her, garden, certain
+3. 鼻腔爆破：garden, certain
+4. 连读：at the，at 的失爆
+5. h 击穿：told her 读成 told-er
+
+
 
 
