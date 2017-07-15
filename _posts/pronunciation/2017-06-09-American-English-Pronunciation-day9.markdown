@@ -27,5 +27,11 @@ Someone will ask you to dance.
 
 {% include Audio.html src="/assets/media/pronunciation/keith-6-9.wav" type="wav" %}
 
-
+需要注意的知识点
+1.aoww：town把/au/发成/æu/
+2.ɑ ：hot，美音嘴张的要比英音的/ʌ/小。
+3.æ：ask, dance，/æ/嘴巴张开较大，上下齿容纳两个手指的宽度。嘴唇尽量向两侧分开
+4.连读： in-our
+5.弱读：for， to
+7.阶梯状语调
 
