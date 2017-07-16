@@ -20,5 +20,8 @@ The policeman saw a red car on the freeway in Los Angeles.
 
 {% include Audio.html src="/assets/media/pronunciation/keith-6-10.wav" type="wav" %}
 
+需要注意的知识点
+1.卷舌：car
+2.重音，注意模仿：POLICEman, red CAR, FREEway, Los ANGELES
 
 
