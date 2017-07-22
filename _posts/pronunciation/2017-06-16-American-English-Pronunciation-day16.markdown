@@ -24,5 +24,7 @@ The nation is full of fools and everyone gets a vote.
 
 {% include Audio.html src="/assets/media/pronunciation/keith-6-16.wav" type="wav" %}
 
-
+需要注意的知识点
+1.full of 连读
+2.nation 的 N 鼻音不要发成 lation
 
