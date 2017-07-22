@@ -10,6 +10,7 @@ pic: images/composition/1428456294765.jpg
 
 <!--more-->
 
+{% include img.html src=page.pic %}
 
 ---
 
@@ -58,4 +59,4 @@ Please keep up the good work!
 哈哈查了这些单词后我知道老师夸我啥了，老师夸了我啥呢？哈哈，keep up the good work！
 
 ### Picture Reference
-> http://www.executivestyle.com.au/content/dam/images/3/4/m/d/3/image.related.articleLeadwide.620x349.34hlt.png/1428456294765.jpg
+> [classmate](http://www.executivestyle.com.au/content/dam/images/3/4/m/d/3/image.related.articleLeadwide.620x349.34hlt.png/1428456294765.jpg)

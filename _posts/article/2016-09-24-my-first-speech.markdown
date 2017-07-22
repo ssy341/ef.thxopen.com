@@ -30,4 +30,4 @@ I thought that was amazing and fantastic.
 
 
 #### Picture reference: 
-> https://www.presentationmagazine.com/newimages/5min-speech1.jpg
+> [5min-speech1.jpg](https://www.presentationmagazine.com/newimages/5min-speech1.jpg)

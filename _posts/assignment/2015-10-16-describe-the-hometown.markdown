@@ -3,13 +3,15 @@ layout: post
 title:  Describe the hometown 1级 - Unit 3
 categories: assignment
 author: Keith Shan
-pic: images/pic02.jpg
+pic: images/composition/orange.jpg
 ---
 
 写一段文字描述你的家乡或城市。请在描述中使用形容词，并注意 **a**、**an** 或 **the** 的使用。
 
 <!--more-->
 
+
+{% include img.html src=page.pic %}
 
 ---
 
@@ -42,6 +44,6 @@ it is important to choose the words correctly e.g : " My home is near by river a
 
 
 #### Picture reference: 
-> http://www.hkcd.com/userfiles/1413257049.jpg
+> [orange](http://www.hkcd.com/userfiles/1413257049.jpg)
 
 

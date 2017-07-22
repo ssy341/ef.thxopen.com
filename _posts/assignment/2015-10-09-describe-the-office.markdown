@@ -41,6 +41,6 @@ a few restrooms and a lot of windows.
 
 
 #### Picture reference: 
-> http://www.beoffices.com/wp-content/uploads/2014/04/Serviced-Office-Space.jpg
+> [Serviced-Office-Space.jpg](http://www.beoffices.com/wp-content/uploads/2014/04/Serviced-Office-Space.jpg)
 
 

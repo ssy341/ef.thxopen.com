@@ -51,7 +51,3 @@ English online teaching website to further improve your writing skills. Regards,
 - 扩充词汇量也可以避免犯语法错误，I very seldom study new words. That is bad. I need to learn more new words.
 - 以元音开头的单词（a,e,i,o,u，包括以这些发音开头的）用 an 
 
-
-#### Picture reference: 
-> http://www.hkcd.com/userfiles/1413257049.jpg
-
