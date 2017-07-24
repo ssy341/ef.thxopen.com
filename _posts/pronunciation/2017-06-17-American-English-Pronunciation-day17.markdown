@@ -33,6 +33,9 @@ Yes.
 {% include Audio.html src="/assets/media/pronunciation/keith-6-17.wav" type="wav" %}
 
 
+需要注意的知识点
+1. an old 有连读
+2. though［ðoʊ] th 咬舌音
 
 
 
