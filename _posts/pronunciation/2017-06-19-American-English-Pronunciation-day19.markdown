@@ -29,6 +29,9 @@ the在辅音前读/ðə/，在元音前读/ði/。（辅音和辅音字母注意
 {% include Audio.html src="/assets/media/pronunciation/keith-6-19.wav" type="wav" %}
 
 
+需要注意的知识点
+1. at the 的两个连读：注意有失去爆破：第一个句子：a(t)thee（thee读 [ði] ） 第二个句子读：a(t)the（the 读 [ðə]）；
+2. look like 中间 有不完全爆破
 
 
 
