@@ -36,6 +36,13 @@ I frequently feed the ducks in central park.
 {% include Audio.html src="/assets/media/pronunciation/keith-6-20.wav" type="wav" %}
 
 
+需要注意的知识点
+1、 exactly，can't 的 t 轻读，保持口形和舌位，不发声，注意 exactly的读音[ɪɡˈzæktli]，ex 发音是[ɪɡ]不是[ɪk], [g]音不要发太重；
+2、 an 与 Oxford 之间连读 anoxford；
+3、 not 和 exactly 之间连读 t 音轻读；
+4、 oxford 和 man 之间有不完全爆破
+
+
 
 
 
