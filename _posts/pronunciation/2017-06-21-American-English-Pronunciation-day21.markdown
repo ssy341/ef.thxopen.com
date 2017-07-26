@@ -42,6 +42,8 @@ A part of me will always be with you.
 {% include Audio.html src="/assets/media/pronunciation/keith-6-21.wav" type="wav" %}
 
 
-
+需要注意的知识点
+1、 and、 I 中间有连读、 that's alright 中间有连读、 because 和 I 中 间有连读，类似于/becuzai/；
+2、 but 的 t 轻读；
 
 
