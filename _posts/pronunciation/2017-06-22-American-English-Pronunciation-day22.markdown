@@ -1,6 +1,6 @@
 ---
 layout: post
-title: American English Pronunciation - Day 22 失爆d
+title: American English Pronunciation - Day 22 辅音+辅音的连读 失爆d
 categories: pronunciation
 author: Keith Shan
 pic: images/pic08.jpg
@@ -18,7 +18,7 @@ That big kitchen of theirs got me thinking.
 
 {% include Audio.html src="/assets/media/pronunciation/eg6-22.mp3" type="mp3" %}
 
-### 美音发音技巧 —— 失爆d
+### 美音发音技巧 —— 辅音+辅音的连读 失爆d
 
 
 当两个爆破音分别出现在相邻单词的词尾和词首，一个爆破音后面紧跟着另一个爆破音时，前面的爆破音不发生爆破，只做出发音的口型。
@@ -31,10 +31,16 @@ An early bird catches the worm.
 This is a good book.
 
 
-
 听听我的模仿
 
 {% include Audio.html src="/assets/media/pronunciation/keith-6-22.wav" type="wav" %}
+
+需要注意的知识点
+- 1.big kitchen 中间失去爆破；
+- 2.theirs 美 [ðerz］；
+- 3.got me 连读，不完全爆破；
+- 4.of 读 /ɑːv/ 不是 off；
+- 5.thinking  th 要咬舌
 
 
 
