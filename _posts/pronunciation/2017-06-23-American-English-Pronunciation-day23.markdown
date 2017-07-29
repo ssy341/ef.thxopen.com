@@ -27,11 +27,14 @@ I love that joke.
 2.Would you mind I take that map?
 
 
-
-
 听听我的模仿
 
 {% include Audio.html src="/assets/media/pronunciation/keith-6-23.wav" type="wav" %}
+
+
+需要注意的知识点
+1、 hunt for 中间有不完全爆破，t 只发出一点的爆破音
+2、 tax exemptions 中间有连读
 
 
 
