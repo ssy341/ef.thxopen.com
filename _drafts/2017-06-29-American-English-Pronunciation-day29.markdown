@@ -1,9 +1,9 @@
 ---
 layout: post
-title: American English Pronunciation - Day 27 滑音/w/
+title: American English Pronunciation - Day 29 滑音/w/
 categories: pronunciation
 author: Keith Shan
-pic: images/pic04.jpg
+pic: images/pic07.jpg
 ---
 
 All right, Let's do it.
